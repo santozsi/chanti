@@ -416,6 +416,7 @@
       "pine_taiga": "2024-12-17 03:17:33 +0000",
       "autumnal_maple_forest": "2024-12-17 21:51:16 +0000",
       "maple_forest": "2024-12-17 21:39:31 +0000",
+      "magnolia_highlands": "2024-12-17 22:00:28 +0000",
       "temperate_grove": "2024-12-17 03:48:00 +0000"
     },
     "done": false
@@ -425,6 +426,7 @@
       "pine_taiga": "2024-12-17 03:17:33 +0000",
       "autumnal_maple_forest": "2024-12-17 21:51:16 +0000",
       "maple_forest": "2024-12-17 21:39:31 +0000",
+      "magnolia_highlands": "2024-12-17 22:00:28 +0000",
       "temperate_grove": "2024-12-17 03:48:00 +0000"
     },
     "done": false
@@ -1231,6 +1233,7 @@
     "criteria": {
       "minecraft:river": "2024-12-17 03:50:33 +0000",
       "minecraft:forest": "2024-12-17 21:39:42 +0000",
+      "minecraft:meadow": "2024-12-17 22:03:47 +0000",
       "minecraft:plains": "2024-12-17 21:50:52 +0000"
     },
     "done": false
@@ -1722,6 +1725,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/item_shelf": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2024-12-17 22:02:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_iron_ingot": "2024-12-17 21:30:37 +0000"
@@ -1791,6 +1800,12 @@
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2024-12-17 21:30:37 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/lost_eye": {
+    "criteria": {
+      "lost_eye": "2024-12-17 22:03:56 +0000"
     },
     "done": true
   },
@@ -1944,6 +1959,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2024-12-17 22:02:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2024-12-17 21:30:37 +0000"
@@ -1977,6 +1998,12 @@
   "minecraft:recipes/misc/stonecutter_from_relicstone": {
     "criteria": {
       "has_iron_ingot": "2024-12-17 21:30:37 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/bamboo_spikes": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2024-12-17 22:02:07 +0000"
     },
     "done": true
   },
@@ -2079,6 +2106,12 @@
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2024-12-17 21:25:58 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/blackboard": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2024-12-17 22:02:07 +0000"
     },
     "done": true
   },
@@ -2268,6 +2301,12 @@
     },
     "done": true
   },
+  "endrem:main/root": {
+    "criteria": {
+      "lost_eye": "2024-12-17 22:03:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
       "has_planks": "2024-12-17 21:23:00 +0000"
@@ -2319,6 +2358,18 @@
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_pickaxe": "2024-12-17 21:43:12 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/trough": {
+    "criteria": {
+      "has_item": "2024-12-17 22:02:07 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/jar": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2024-12-17 22:02:07 +0000"
     },
     "done": true
   },

@@ -13215,3 +13215,27 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [17Dec2024 21:55:04.319] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [17Dec2024 21:55:04.431] [IO-Worker-45/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-49
 [17Dec2024 21:55:57.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <B3njaxx_11> a
+[17Dec2024 21:58:18.020] [IO-Worker-45/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-50
+[17Dec2024 22:00:04.280] [IO-Worker-45/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-51
+[17Dec2024 22:00:04.289] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Dec2024 22:00:04.310] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Dec2024 22:00:05.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 was slain by Ashen Blood Beast Patient
+[17Dec2024 22:00:28.643] [IO-Worker-45/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-52
+[17Dec2024 22:00:28.644] [IO-Worker-51/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-53
+[17Dec2024 22:01:14.081] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of queen_bee:beehive
+[17Dec2024 22:01:25.341] [IO-Worker-52/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-54
+[17Dec2024 22:03:02.358] [IO-Worker-52/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-55
+[17Dec2024 22:03:12.538] [Worker-Main-16/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:rabbitboss at BlockPos{x=-145, y=-49, z=798} at Chest with:minecraft:chests/simple_dungeon
+[17Dec2024 22:03:12.990] [IO-Worker-53/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-56
+[17Dec2024 22:03:56.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 has made the advancement [The Beginning of An Adventure]
+[17Dec2024 22:03:56.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 has made the advancement [Need A Map?]
+[17Dec2024 22:05:04.299] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Dec2024 22:05:04.322] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Dec2024 22:05:42.257] [IO-Worker-52/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-57
+[17Dec2024 22:05:42.397] [IO-Worker-52/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-58
+[17Dec2024 22:05:43.786] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of totw_modded:derelict_grass/derelict_grass_tower_bottom
+[17Dec2024 22:05:43.792] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of totw_modded:ice/ice_tower_bottom
+[17Dec2024 22:05:43.796] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of totw_modded:derelict/derelict_tower_bottom
+[17Dec2024 22:05:43.805] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of totw_modded:ocean/ocean_tower_bottom
+[17Dec2024 22:05:43.812] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of totw_modded:ocean_warm/ocean_warm_tower_bottom
+[17Dec2024 22:05:43.819] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of totw_modded:jungle/jungle_tower_bottom
