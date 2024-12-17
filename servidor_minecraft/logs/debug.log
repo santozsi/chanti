@@ -12898,3 +12898,55 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [17Dec2024 21:25:57.798] [Worker-Main-16/DEBUG] [ModernFix/]: Structure hopo:mineshaft/dark_oak/down_2 is being run through DFU (hash 89c49332cf82568e3e4dfc1ce8b498c99b2059535965e094d13cb3d5f3a15378), this will cause launch time delays
 [17Dec2024 21:25:58.021] [IO-Worker-31/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-35
 [17Dec2024 21:26:02.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <B3njaxx_11> a
+[17Dec2024 21:26:11.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <B3njaxx_11> aa
+[17Dec2024 21:26:21.240] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: B3njaxx_11 moved too quickly! -5.6520586834011795,0.0,8.348487447348035
+[17Dec2024 21:26:22.015] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of supplementaries:way_sign
+[17Dec2024 21:26:22.884] [Worker-Main-2/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombieboss at BlockPos{x=225, y=66, z=287} at Barrel with:minecraft:chests/simple_dungeon
+[17Dec2024 21:26:23.369] [IO-Worker-34/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-36
+[17Dec2024 21:26:35.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <B3njaxx_11> a
+[17Dec2024 21:26:38.642] [Worker-Main-16/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:huskboss at BlockPos{x=5, y=-14, z=295} at Chest with:minecraft:chests/abandoned_mineshaft
+[17Dec2024 21:26:55.377] [Worker-Main-2/DEBUG] [ModernFix/]: Structure hopo:mineshaft/mangrove/down_3 is being run through DFU (hash 4e7ed08eeb7acda76da7b6196c9f14391bd9a19cf208d852d58750ed59743c4b), this will cause launch time delays
+[17Dec2024 21:26:55.382] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/path_1_alt
+[17Dec2024 21:26:55.384] [Worker-Main-2/DEBUG] [ModernFix/]: Structure hopo:mineshaft/acacia/down_3 is being run through DFU (hash 24f2e6bc642208ade2840c9763e3cc6da441b6c0a3d5fd4b22e5d35606d9014d), this will cause launch time delays
+[17Dec2024 21:26:55.388] [Worker-Main-2/DEBUG] [ModernFix/]: Structure hopo:mineshaft/jungle/entrance_alt is being run through DFU (hash 2bb426034b942a71ce0668f51c92c0eaa3c4b34e00c1dde36cb962745b394f81), this will cause launch time delays
+[17Dec2024 21:26:55.390] [Worker-Main-2/DEBUG] [ModernFix/]: Structure hopo:mineshaft/bamboo/entrance_alt is being run through DFU (hash d0a78a14caefa9a2de29e853d3e98bcb92120502997599c2439de60995ef058d), this will cause launch time delays
+[17Dec2024 21:26:55.392] [Worker-Main-2/DEBUG] [ModernFix/]: Structure hopo:mineshaft/mud/path is being run through DFU (hash f5bf28c72f0120eb725b348593c90c6683b9d4f4532c46d6c65d2b1d9d33f768), this will cause launch time delays
+[17Dec2024 21:26:55.396] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/entrance_1_alt
+[17Dec2024 21:26:55.397] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/cherry/entrance_1_alt
+[17Dec2024 21:26:55.398] [Worker-Main-2/DEBUG] [ModernFix/]: Structure hopo:mineshaft/dark_oak/entrance_alt is being run through DFU (hash 6689278a7d0fec6c5b318b6744ee7d24b5fc2057a00624bd1b73d56478c81b1b), this will cause launch time delays
+[17Dec2024 21:26:55.399] [Worker-Main-2/DEBUG] [ModernFix/]: Structure hopo:mineshaft/oak/entrance_alt is being run through DFU (hash 9525339beb3272373c55f5989de64826dee0ec2ae93377e0569d5de23c40ed33), this will cause launch time delays
+[17Dec2024 21:26:55.401] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/stone/entrance_1
+[17Dec2024 21:26:58.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <B3njaxx_11> a
+[17Dec2024 21:27:04.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 has made the advancement [9 Seasons Later]
+[17Dec2024 21:27:21.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 has made the advancement [Vasebreaker]
+[17Dec2024 21:27:22.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <B3njaxx_11> a
+[17Dec2024 21:27:57.101] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of gnumus:gnumus_ruins
+[17Dec2024 21:28:00.460] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:bunker/bunker_enterance_1
+[17Dec2024 21:28:01.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 has made the advancement [Oh Deer]
+[17Dec2024 21:28:02.251] [Worker-Main-2/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:huskboss at BlockPos{x=-110, y=29, z=321} at Chest with:minecraft:chests/simple_dungeon
+[17Dec2024 21:28:13.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 has made the advancement [Hog Wild!]
+[17Dec2024 21:28:15.148] [Netty Epoll Server IO #6/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/bettercombat/logic/AnimatedHand
+[17Dec2024 21:28:28.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 has made the advancement [Acquire Ash]
+[17Dec2024 21:28:33.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 has completed the challenge [Hunt of a Lifetime!]
+[17Dec2024 21:29:17.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <B3njaxx_11> a
+[17Dec2024 21:29:17.349] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_7
+[17Dec2024 21:29:31.919] [IO-Worker-31/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-37
+[17Dec2024 21:29:47.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <B3njaxx_11> a
+[17Dec2024 21:30:04.317] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Dec2024 21:30:04.349] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Dec2024 21:30:24.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 has made the advancement [Fatty Demon]
+[17Dec2024 21:30:36.645] [Server thread/DEBUG] [mixin/]: Mixing accessors.item.AccessorCooldownInstance from bookshelf.common.mixins.json into net.minecraft.world.item.ItemCooldowns$CooldownInstance
+[17Dec2024 21:30:36.645] [Server thread/DEBUG] [mixin/]: Mixing gameplay.CooldownInstanceAccessor from the_bumblezone-common.mixins.json into net.minecraft.world.item.ItemCooldowns$CooldownInstance
+[17Dec2024 21:30:37.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 has made the advancement [Acquire Hardware]
+[17Dec2024 21:31:00.684] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[17Dec2024 21:31:00.686] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 0 is dual wielding: false
+[17Dec2024 21:31:00.686] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 4 cobblestone
+[17Dec2024 21:31:00.687] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[17Dec2024 21:31:00.687] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 3 | client: 1
+[17Dec2024 21:31:00.688] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[17Dec2024 21:31:00.688] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 1 is dual wielding: false
+[17Dec2024 21:31:00.688] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 3 cobblestone
+[17Dec2024 21:31:00.689] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[17Dec2024 21:31:00.689] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 1 | client: 1
+[17Dec2024 21:35:04.306] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Dec2024 21:35:04.332] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
