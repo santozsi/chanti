@@ -3211,3 +3211,40 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [17Dec2024 21:31:00.688] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 3 cobblestone
 [17Dec2024 21:31:00.689] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
 [17Dec2024 21:31:00.689] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 1 | client: 1
+[17Dec2024 21:38:38.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <B3njaxx_11> a
+[17Dec2024 21:39:05.955] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: B3njaxx_11 moved too quickly! -7.818330518915268,1.0,6.328308271379342
+[17Dec2024 21:40:14.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <B3njaxx_11> a
+[17Dec2024 21:40:24.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <B3njaxx_11> e
+[17Dec2024 21:40:42.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 has made the advancement [Barrel Booty]
+[17Dec2024 21:40:42.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 has made the advancement [Simple Dungeon Room]
+[17Dec2024 21:42:05.424] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/renderdata/DisplaySide
+[17Dec2024 21:42:05.428] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/renderdata/TankPosition
+[17Dec2024 21:42:06.855] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedbackpacks/common/gui/BackpackContext$ContextType
+[17Dec2024 21:42:12.181] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/settings/main/Context
+[17Dec2024 21:43:12.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 has made the advancement [Isn't It Iron Pick]
+[17Dec2024 21:46:03.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <B3njaxx_11> a
+[17Dec2024 21:47:33.402] [Worker-Main-16/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [6, 25], pos: BlockPos{x=101, y=67, z=400}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / eco:bushes_super_dense]
+[17Dec2024 21:47:33.402] [Worker-Main-16/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [6, 25], pos: BlockPos{x=101, y=66, z=400}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / eco:bushes_super_dense]
+[17Dec2024 21:47:33.402] [Worker-Main-16/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [6, 25], pos: BlockPos{x=102, y=67, z=400}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / eco:bushes_super_dense]
+[17Dec2024 21:47:33.403] [Worker-Main-16/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [6, 25], pos: BlockPos{x=102, y=66, z=400}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / eco:bushes_super_dense]
+[17Dec2024 21:47:33.422] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/commands/FillCommand$Mode
+[17Dec2024 21:47:42.272] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: B3njaxx_11 moved too quickly! -3.168081134019772,1.4199999868869781,9.572750388011855
+[17Dec2024 21:47:45.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <B3njaxx_11> a
+[17Dec2024 21:48:11.519] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/projectile/AbstractArrow$Pickup
+[17Dec2024 21:48:14.374] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: B3njaxx_11 moved too quickly! -7.227977684630815,0.0,7.173693374145159
+[17Dec2024 21:48:18.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 has made the advancement [Roadrunners Beware!]
+[17Dec2024 21:50:47.805] [Worker-Main-15/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-33 absolute--50 absolute]
+[17Dec2024 21:50:47.890] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-1, 47], pos: BlockPos{x=-16, y=67, z=759}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / eco:bushes_super_dense]
+[17Dec2024 21:50:47.890] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-1, 47], pos: BlockPos{x=-16, y=66, z=759}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / eco:bushes_super_dense]
+[17Dec2024 21:50:47.890] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-1, 47], pos: BlockPos{x=-16, y=67, z=760}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / eco:bushes_super_dense]
+[17Dec2024 21:50:47.891] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-1, 47], pos: BlockPos{x=-16, y=66, z=760}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / eco:bushes_super_dense]
+[17Dec2024 21:51:10.768] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/AbstractIllager$IllagerArmPose
+[17Dec2024 21:51:21.601] [Worker-Main-15/ERROR] [net.minecraft.world.level.block.entity.SculkShriekerBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;-425,-56,-205],type:"minecraft:block"}}]
+[17Dec2024 21:52:45.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <B3njaxx_11> aa
+[17Dec2024 21:52:54.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <B3njaxx_11> e
+[17Dec2024 21:53:19.665] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/eeeab/eeeabsmobs/sever/integration/curios/ICuriosApi
+[17Dec2024 21:53:40.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 was slain by Hollow Soldier
+[17Dec2024 21:53:41.030] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 14 in "main" inventory handler
+[17Dec2024 21:53:54.560] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tictim/paraglider/api/vessel/VesselContainer$SetResult
+[17Dec2024 21:53:55.008] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/horse/Markings
+[17Dec2024 21:55:57.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <B3njaxx_11> a
