@@ -12264,3 +12264,47 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [17Dec2024 21:04:05.080] [Server thread/DEBUG] [com.cerbon.better_totem_of_undying.util.BTUConstants/]: Loaded com.cerbon.better_totem_of_undying.forge.platform.ForgeCharmHelper@38107f67 for service interface com.cerbon.better_totem_of_undying.platform.services.ICharmHelper
 [17Dec2024 21:04:05.237] [Netty Epoll Server IO #4/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/network/NetworkEvent$RegistrationChangeType
 [17Dec2024 21:04:05.642] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to B3njaxx_11 (1e2ff22d-2c9b-3ce9-9d6e-8df0fcdaea21)
+[17Dec2024 21:04:17.006] [IO-Worker-13/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-17
+[17Dec2024 21:04:59.780] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Dec2024 21:04:59.868] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Dec2024 21:08:46.047] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: B3njaxx_11 moved too quickly! 8.758814815354071,2.395575898673286,-4.310495637684099
+[17Dec2024 21:08:55.056] [IO-Worker-14/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-18
+[17Dec2024 21:08:55.413] [IO-Worker-18/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-19
+[17Dec2024 21:09:39.487] [IO-Worker-13/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-21
+[17Dec2024 21:09:39.487] [IO-Worker-18/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-20
+[17Dec2024 21:09:39.550] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/grove_villager_outpost/town_centers/grove_meeting_point_1
+[17Dec2024 21:09:39.559] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/grove_villager_outpost/grove_table_1
+[17Dec2024 21:09:39.719] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
+[17Dec2024 21:09:39.797] [Worker-Main-2/DEBUG] [mixin/]: Mixing accessor.WorldGenRegionAccessor from betterdungeons.mixins.json into net.minecraft.server.level.WorldGenRegion
+[17Dec2024 21:09:39.797] [Worker-Main-2/DEBUG] [mixin/]: Mixing world.WorldGenRegionAccessor from repurposed_structures-common.mixins.json into net.minecraft.server.level.WorldGenRegion
+[17Dec2024 21:09:39.798] [Worker-Main-2/DEBUG] [mixin/]: Mixing WorldGenRegionAccessor from cataclysm.mixins.json into net.minecraft.server.level.WorldGenRegion
+[17Dec2024 21:09:39.798] [Worker-Main-2/DEBUG] [mixin/]: Mixing world.WorldGenRegionAccessor from the_bumblezone-common.mixins.json into net.minecraft.server.level.WorldGenRegion
+[17Dec2024 21:09:39.798] [Worker-Main-2/DEBUG] [mixin/]: Mixing gen.chunk_region.ChunkRegionMixin from lithium.mixins.json into net.minecraft.server.level.WorldGenRegion
+[17Dec2024 21:09:39.798] [Worker-Main-2/DEBUG] [mixin/]: lithium.mixins.json:gen.chunk_region.ChunkRegionMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[17Dec2024 21:09:39.799] [Worker-Main-2/DEBUG] [mixin/]: Mixing gen.WorldGenRegionMixin from iceandfire.mixins.json into net.minecraft.server.level.WorldGenRegion
+[17Dec2024 21:09:39.800] [Worker-Main-2/DEBUG] [mixin/]: Mixing SpawnerBlockListener from brutalbosses.mixins.json into net.minecraft.server.level.WorldGenRegion
+[17Dec2024 21:09:39.800] [Worker-Main-2/DEBUG] [mixin/]: brutalbosses.mixins.json:SpawnerBlockListener: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
+[17Dec2024 21:09:39.804] [Worker-Main-2/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[17Dec2024 21:09:39.805] [Worker-Main-2/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[17Dec2024 21:09:39.805] [Worker-Main-2/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[17Dec2024 21:09:39.995] [Worker-Main-16/DEBUG] [mixin/]: Mixing world.NoiseChunkAccessor from the_bumblezone-common.mixins.json into net.minecraft.world.level.levelgen.NoiseChunk
+[17Dec2024 21:09:40.000] [Worker-Main-16/DEBUG] [mixin/]: Mixing BeardifierMixin from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[17Dec2024 21:09:40.001] [Worker-Main-16/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[17Dec2024 21:09:40.066] [Worker-Main-16/DEBUG] [mixin/]: Mixing ChainedBlockSourceMixin from noisium-common.mixins.json into net.minecraft.world.level.levelgen.material.MaterialRuleList
+[17Dec2024 21:09:40.576] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of seadwellers:aquamarine_crystal_gen
+[17Dec2024 21:09:40.578] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of seadwellers:sea_village
+[17Dec2024 21:09:48.916] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[17Dec2024 21:09:48.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <B3njaxx_11> aa
+[17Dec2024 21:09:59.776] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Dec2024 21:09:59.801] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Dec2024 21:10:43.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <B3njaxx_11> aa
+[17Dec2024 21:10:50.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <B3njaxx_11> a
+[17Dec2024 21:11:07.702] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting fuzs/puzzleslib/api/event/v1/core/EventResult
+[17Dec2024 21:12:29.013] [IO-Worker-21/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-23
+[17Dec2024 21:12:29.013] [IO-Worker-19/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-22
+[17Dec2024 21:14:13.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <B3njaxx_11> t
+[17Dec2024 21:14:59.732] [IO-Worker-21/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-24
+[17Dec2024 21:14:59.756] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Dec2024 21:14:59.777] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Dec2024 21:15:13.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <B3njaxx_11> as
+[17Dec2024 21:15:57.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <B3njaxx_11> t

@@ -431,78 +431,41 @@
     },
     "done": false
   },
-  "incendium:technical/sentrys_wrath": {
+  "regions_unexplored:recipes/building_blocks/pine_planks": {
     "criteria": {
-      "log_spam_fixer": "2024-12-17 03:54:07 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "requirement": "2024-12-17 03:54:08 +0000",
-      "log_spam_fixer": "2024-12-17 03:54:07 +0000"
+      "has_logs": "2024-12-17 03:45:17 +0000"
     },
     "done": true
   },
-  "incendium:technical/on_kill": {
+  "minecraft:recipes/misc/charcoal": {
     "criteria": {
-      "log_spam_fixer": "2024-12-17 03:54:07 +0000"
+      "has_log": "2024-12-17 03:45:17 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:got_wood": {
+    "criteria": {
+      "pine_log": "2024-12-17 03:45:17 +0000"
     },
     "done": false
   },
-  "incendium:technical/on_inventory_change": {
+  "immersive_armors:recipes/misc/wooden": {
     "criteria": {
-      "log_spam_fixer": "2024-12-17 03:54:07 +0000"
+      "has_item": "2024-12-17 03:45:17 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/holy_wrath": {
+  "regions_unexplored:recipes/decorations/pine_branch_from_pine_log": {
     "criteria": {
-      "log_spam_fixer": "2024-12-17 03:54:07 +0000"
+      "has_log": "2024-12-17 03:45:17 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_block": {
+  "regions_unexplored:recipes/building_blocks/pine_wood": {
     "criteria": {
-      "log_spam_fixer": "2024-12-17 03:54:07 +0000"
+      "has_log": "2024-12-17 03:45:17 +0000"
     },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-17 03:54:07 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-17 03:54:07 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-17 03:54:07 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-17 03:54:07 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-17 03:54:07 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-17 03:54:07 +0000"
-    },
-    "done": false
+    "done": true
   },
   "regions_unexplored:recipes/building_blocks/lime_painted_planks": {
     "criteria": {
@@ -510,15 +473,219 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/ladder": {
+  "regions_unexplored:recipes/redstone/pine_fence_gate": {
     "criteria": {
-      "has_stick": "2024-12-17 03:46:00 +0000"
+      "has_pine_planks": "2024-12-17 03:45:30 +0000"
     },
     "done": true
   },
-  "regions_unexplored:recipes/building_blocks/pine_planks": {
+  "supplementaries:recipes/lock_block": {
     "criteria": {
-      "has_logs": "2024-12-17 03:45:17 +0000"
+      "minecraft:planks": "2024-12-17 03:45:30 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/brown_painted_planks": {
+    "criteria": {
+      "has_planks": "2024-12-17 03:45:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2024-12-17 03:45:30 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/black_painted_planks": {
+    "criteria": {
+      "has_planks": "2024-12-17 03:45:30 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/pine_trapdoor": {
+    "criteria": {
+      "has_pine_planks": "2024-12-17 03:45:30 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/cyan_painted_planks": {
+    "criteria": {
+      "has_planks": "2024-12-17 03:45:30 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/pine_fence": {
+    "criteria": {
+      "has_pine_planks": "2024-12-17 03:45:30 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/pine_pressure_plate": {
+    "criteria": {
+      "has_pine_planks": "2024-12-17 03:45:30 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/blue_painted_planks": {
+    "criteria": {
+      "has_planks": "2024-12-17 03:45:30 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/turn_table": {
+    "criteria": {
+      "minecraft:planks": "2024-12-17 03:45:30 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/clock_block": {
+    "criteria": {
+      "minecraft:planks": "2024-12-17 03:45:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_planks": "2024-12-17 03:45:30 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/orange_painted_planks": {
+    "criteria": {
+      "has_planks": "2024-12-17 03:45:30 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/gray_painted_planks": {
+    "criteria": {
+      "has_planks": "2024-12-17 03:45:30 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/regions_unexplored/sign_post_pine": {
+    "criteria": {
+      "has_planks": "2024-12-17 03:45:30 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/red_painted_planks": {
+    "criteria": {
+      "has_planks": "2024-12-17 03:45:30 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/green_painted_planks": {
+    "criteria": {
+      "has_planks": "2024-12-17 03:45:30 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/white_painted_planks": {
+    "criteria": {
+      "has_planks": "2024-12-17 03:45:30 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/pine_stairs": {
+    "criteria": {
+      "has_pine_planks": "2024-12-17 03:45:30 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/bed_from_feather_block": {
+    "criteria": {
+      "minecraft:planks": "2024-12-17 03:45:30 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/light_gray_painted_planks": {
+    "criteria": {
+      "has_planks": "2024-12-17 03:45:30 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/light_blue_painted_planks": {
+    "criteria": {
+      "has_planks": "2024-12-17 03:45:30 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/pine_sign": {
+    "criteria": {
+      "has_pine_planks": "2024-12-17 03:45:30 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/earplugs": {
+    "criteria": {
+      "has_item": "2024-12-17 03:45:30 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/speaker_block": {
+    "criteria": {
+      "minecraft:planks": "2024-12-17 03:45:30 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/yellow_painted_planks": {
+    "criteria": {
+      "has_planks": "2024-12-17 03:45:30 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/purple_painted_planks": {
+    "criteria": {
+      "has_planks": "2024-12-17 03:45:30 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/pine_button": {
+    "criteria": {
+      "has_pine_planks": "2024-12-17 03:45:30 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/pink_painted_planks": {
+    "criteria": {
+      "has_planks": "2024-12-17 03:45:30 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/notice_board": {
+    "criteria": {
+      "minecraft:planks": "2024-12-17 03:45:30 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/pine_door": {
+    "criteria": {
+      "has_pine_planks": "2024-12-17 03:45:30 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/pine_slab": {
+    "criteria": {
+      "has_pine_planks": "2024-12-17 03:45:30 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/magenta_painted_planks": {
+    "criteria": {
+      "has_planks": "2024-12-17 03:45:30 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/pulley": {
+    "criteria": {
+      "minecraft:planks": "2024-12-17 03:45:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2024-12-17 03:46:00 +0000"
     },
     "done": true
   },
@@ -546,12 +713,6 @@
     },
     "done": true
   },
-  "slashblade:material/proudsoul_tiny": {
-    "criteria": {
-      "BrokenBlade": "2024-12-17 03:48:16 +0000"
-    },
-    "done": true
-  },
   "supplementaries:recipes/flags/flag_orange": {
     "criteria": {
       "has_stick": "2024-12-17 03:46:00 +0000"
@@ -564,39 +725,9 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/redstone/pine_fence_gate": {
-    "criteria": {
-      "has_pine_planks": "2024-12-17 03:45:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/mine_stone": {
-    "criteria": {
-      "get_stone": "2024-12-17 03:46:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/furnace": {
-    "criteria": {
-      "has_cobblestone": "2024-12-17 03:46:33 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/lock_block": {
-    "criteria": {
-      "minecraft:planks": "2024-12-17 03:45:30 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2024-12-17 03:46:00 +0000"
-    },
-    "done": true
-  },
-  "cnc:harmless_snakeadvancement": {
-    "criteria": {
-      "harmless_snakeadvancement_0": "2024-12-17 03:47:32 +0000"
     },
     "done": true
   },
@@ -612,36 +743,6 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/building_blocks/brown_painted_planks": {
-    "criteria": {
-      "has_planks": "2024-12-17 03:45:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/chest": {
-    "criteria": {
-      "has_lots_of_items": "2024-12-17 03:47:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/stick": {
-    "criteria": {
-      "has_planks": "2024-12-17 03:45:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
-    "criteria": {
-      "has_cobblestone": "2024-12-17 03:46:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/birch_wood": {
-    "criteria": {
-      "has_log": "2024-12-17 03:53:56 +0000"
-    },
-    "done": true
-  },
   "landsoficaria:recipes/misc/laurel_fence_gate": {
     "criteria": {
       "has_stick": "2024-12-17 03:46:00 +0000"
@@ -654,21 +755,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/cobblestone_grinding": {
-    "criteria": {
-      "has_cobblestone": "2024-12-17 03:46:33 +0000"
-    },
-    "done": true
-  },
   "landsoficaria:recipes/misc/populus_sign": {
     "criteria": {
       "has_stick": "2024-12-17 03:46:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone": {
-    "criteria": {
-      "has_cobblestone": "2024-12-17 03:46:33 +0000"
     },
     "done": true
   },
@@ -678,27 +767,9 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/building_blocks/black_painted_planks": {
-    "criteria": {
-      "has_planks": "2024-12-17 03:45:30 +0000"
-    },
-    "done": true
-  },
   "landsoficaria:recipes/misc/fir_fence_gate": {
     "criteria": {
       "has_stick": "2024-12-17 03:46:00 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/redstone/pine_trapdoor": {
-    "criteria": {
-      "has_pine_planks": "2024-12-17 03:45:30 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/cyan_painted_planks": {
-    "criteria": {
-      "has_planks": "2024-12-17 03:45:30 +0000"
     },
     "done": true
   },
@@ -720,18 +791,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/birch_planks": {
-    "criteria": {
-      "has_logs": "2024-12-17 03:53:56 +0000"
-    },
-    "done": true
-  },
-  "bonfires:bonfires/root": {
-    "criteria": {
-      "died": "2024-12-17 03:48:18 +0000"
-    },
-    "done": true
-  },
   "supplementaries:recipes/flags/flag_pink": {
     "criteria": {
       "has_stick": "2024-12-17 03:46:00 +0000"
@@ -741,18 +800,6 @@
   "landsoficaria:recipes/misc/olive_sign": {
     "criteria": {
       "has_stick": "2024-12-17 03:46:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/stone_pickaxe": {
-    "criteria": {
-      "has_cobblestone": "2024-12-17 03:46:33 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/pine_fence": {
-    "criteria": {
-      "has_pine_planks": "2024-12-17 03:45:30 +0000"
     },
     "done": true
   },
@@ -786,18 +833,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/charcoal": {
-    "criteria": {
-      "has_log": "2024-12-17 03:45:17 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/redstone/pine_pressure_plate": {
-    "criteria": {
-      "has_pine_planks": "2024-12-17 03:45:30 +0000"
-    },
-    "done": true
-  },
   "supplementaries:recipes/slingshot": {
     "criteria": {
       "forge:rods/wooden": "2024-12-17 03:46:00 +0000"
@@ -816,45 +851,15 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/building_blocks/blue_painted_planks": {
-    "criteria": {
-      "has_planks": "2024-12-17 03:45:30 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/turn_table": {
-    "criteria": {
-      "minecraft:planks": "2024-12-17 03:45:30 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2024-12-17 03:46:00 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cobblestone_slab": {
-    "criteria": {
-      "has_cobblestone": "2024-12-17 03:46:33 +0000"
-    },
-    "done": true
-  },
   "paraglider:recipes/misc/paraglider": {
     "criteria": {
       "has_stick": "2024-12-17 03:46:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/root": {
-    "criteria": {
-      "killed_by_something": "2024-12-17 03:48:18 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/clock_block": {
-    "criteria": {
-      "minecraft:planks": "2024-12-17 03:45:30 +0000"
     },
     "done": true
   },
@@ -870,33 +875,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/barrel": {
-    "criteria": {
-      "has_planks": "2024-12-17 03:45:30 +0000"
-    },
-    "done": true
-  },
   "supplementaries:recipes/flags/flag_green": {
     "criteria": {
       "has_stick": "2024-12-17 03:46:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
-    "criteria": {
-      "has_cobblestone": "2024-12-17 03:46:33 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/orange_painted_planks": {
-    "criteria": {
-      "has_planks": "2024-12-17 03:45:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cobblestone_stairs": {
-    "criteria": {
-      "has_cobblestone": "2024-12-17 03:46:33 +0000"
     },
     "done": true
   },
@@ -912,24 +893,6 @@
     },
     "done": true
   },
-  "regions_unexplored:got_wood": {
-    "criteria": {
-      "pine_log": "2024-12-17 03:45:17 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/tools/stone_shovel": {
-    "criteria": {
-      "has_cobblestone": "2024-12-17 03:46:33 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/gray_painted_planks": {
-    "criteria": {
-      "has_planks": "2024-12-17 03:45:30 +0000"
-    },
-    "done": true
-  },
   "supplementaries:recipes/flags/flag_white": {
     "criteria": {
       "has_stick": "2024-12-17 03:46:00 +0000"
@@ -942,45 +905,9 @@
     },
     "done": true
   },
-  "supplementaries:recipes/decorations/regions_unexplored/sign_post_pine": {
-    "criteria": {
-      "has_planks": "2024-12-17 03:45:30 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/red_painted_planks": {
-    "criteria": {
-      "has_planks": "2024-12-17 03:45:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/lever": {
-    "criteria": {
-      "has_cobblestone": "2024-12-17 03:46:33 +0000"
-    },
-    "done": true
-  },
   "supplementaries:recipes/timber_cross_brace": {
     "criteria": {
       "forge:rods/wooden": "2024-12-17 03:46:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/stone_sword": {
-    "criteria": {
-      "has_cobblestone": "2024-12-17 03:46:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cobblestone_wall": {
-    "criteria": {
-      "has_cobblestone": "2024-12-17 03:46:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/stone_axe": {
-    "criteria": {
-      "has_cobblestone": "2024-12-17 03:46:33 +0000"
     },
     "done": true
   },
@@ -996,18 +923,6 @@
     },
     "done": true
   },
-  "supplementaries:recipes/flower_box": {
-    "criteria": {
-      "has_dirt": "2024-12-17 03:53:47 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/green_painted_planks": {
-    "criteria": {
-      "has_planks": "2024-12-17 03:45:30 +0000"
-    },
-    "done": true
-  },
   "supplementaries:recipes/faucet": {
     "criteria": {
       "forge:rods/wooden": "2024-12-17 03:46:00 +0000"
@@ -1020,87 +935,9 @@
     },
     "done": true
   },
-  "immersive_armors:recipes/misc/wooden": {
-    "criteria": {
-      "has_item": "2024-12-17 03:45:17 +0000"
-    },
-    "done": true
-  },
-  "bonfires:recipes/brewing/estus_shard": {
-    "criteria": {
-      "has_the_recipe": "2024-12-17 03:48:18 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/white_painted_planks": {
-    "criteria": {
-      "has_planks": "2024-12-17 03:45:30 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/pine_branch_from_pine_log": {
-    "criteria": {
-      "has_log": "2024-12-17 03:45:17 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/pine_stairs": {
-    "criteria": {
-      "has_pine_planks": "2024-12-17 03:45:30 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/bed_from_feather_block": {
-    "criteria": {
-      "minecraft:planks": "2024-12-17 03:45:30 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/checker": {
-    "criteria": {
-      "has_cobblestone": "2024-12-17 03:46:33 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/light_gray_painted_planks": {
-    "criteria": {
-      "has_planks": "2024-12-17 03:45:30 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/light_blue_painted_planks": {
-    "criteria": {
-      "has_planks": "2024-12-17 03:45:30 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/item_frame_from_aeternae_hide": {
     "criteria": {
       "has_stick": "2024-12-17 03:46:00 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/pine_sign": {
-    "criteria": {
-      "has_pine_planks": "2024-12-17 03:45:30 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/earplugs": {
-    "criteria": {
-      "has_item": "2024-12-17 03:45:30 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/speaker_block": {
-    "criteria": {
-      "minecraft:planks": "2024-12-17 03:45:30 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/yellow_painted_planks": {
-    "criteria": {
-      "has_planks": "2024-12-17 03:45:30 +0000"
     },
     "done": true
   },
@@ -1116,21 +953,9 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/building_blocks/purple_painted_planks": {
-    "criteria": {
-      "has_planks": "2024-12-17 03:45:30 +0000"
-    },
-    "done": true
-  },
   "landsoficaria:recipes/misc/droughtroot_sign": {
     "criteria": {
       "has_stick": "2024-12-17 03:46:00 +0000"
-    },
-    "done": true
-  },
-  "slashblade:root": {
-    "criteria": {
-      "attackTheEntity": "2024-12-17 03:48:16 +0000"
     },
     "done": true
   },
@@ -1146,63 +971,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/torch": {
-    "criteria": {
-      "has_stone_pickaxe": "2024-12-17 03:47:10 +0000"
-    },
-    "done": true
-  },
   "supplementaries:recipes/flags/flag_blue": {
     "criteria": {
       "has_stick": "2024-12-17 03:46:00 +0000"
     },
     "done": true
   },
-  "regions_unexplored:recipes/redstone/pine_button": {
-    "criteria": {
-      "has_pine_planks": "2024-12-17 03:45:30 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/pink_painted_planks": {
-    "criteria": {
-      "has_planks": "2024-12-17 03:45:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/mossy_cobblestone": {
-    "criteria": {
-      "has_cobblestone": "2024-12-17 03:46:33 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/notice_board": {
-    "criteria": {
-      "minecraft:planks": "2024-12-17 03:45:30 +0000"
-    },
-    "done": true
-  },
   "supplementaries:recipes/daub_frame": {
     "criteria": {
       "forge:rods/wooden": "2024-12-17 03:46:00 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/redstone/pine_door": {
-    "criteria": {
-      "has_pine_planks": "2024-12-17 03:45:30 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/birch_branch_from_birch_log": {
-    "criteria": {
-      "has_log": "2024-12-17 03:53:56 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/pine_slab": {
-    "criteria": {
-      "has_pine_planks": "2024-12-17 03:45:30 +0000"
     },
     "done": true
   },
@@ -1224,27 +1001,9 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/building_blocks/magenta_painted_planks": {
-    "criteria": {
-      "has_planks": "2024-12-17 03:45:30 +0000"
-    },
-    "done": true
-  },
   "supplementaries:recipes/flags/flag_cyan": {
     "criteria": {
       "has_stick": "2024-12-17 03:46:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/upgrade_tools": {
-    "criteria": {
-      "stone_pickaxe": "2024-12-17 03:47:10 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:teleportation/is_near_beehive": {
-    "criteria": {
-      "is_near_beehive": "2024-12-17 03:52:06 +0000"
     },
     "done": true
   },
@@ -1278,27 +1037,117 @@
     },
     "done": true
   },
-  "minecraft:adventure/adventuring_time": {
+  "minecraft:story/root": {
     "criteria": {
-      "minecraft:river": "2024-12-17 03:50:33 +0000"
+      "crafting_table": "2024-12-17 03:46:00 +0000"
     },
-    "done": false
+    "done": true
   },
-  "supplementaries:recipes/pulley": {
+  "supplementaries:recipes/flags/flag_lime": {
     "criteria": {
-      "minecraft:planks": "2024-12-17 03:45:30 +0000"
+      "has_stick": "2024-12-17 03:46:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2024-12-17 03:46:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2024-12-17 03:46:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2024-12-17 03:46:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/cobblestone_grinding": {
+    "criteria": {
+      "has_cobblestone": "2024-12-17 03:46:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone": {
+    "criteria": {
+      "has_cobblestone": "2024-12-17 03:46:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2024-12-17 03:46:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2024-12-17 03:46:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2024-12-17 03:46:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2024-12-17 03:46:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2024-12-17 03:46:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lever": {
+    "criteria": {
+      "has_cobblestone": "2024-12-17 03:46:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2024-12-17 03:46:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2024-12-17 03:46:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2024-12-17 03:46:33 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/checker": {
+    "criteria": {
+      "has_cobblestone": "2024-12-17 03:46:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mossy_cobblestone": {
+    "criteria": {
+      "has_cobblestone": "2024-12-17 03:46:33 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2024-12-17 03:46:33 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/pine_wood": {
-    "criteria": {
-      "has_log": "2024-12-17 03:45:17 +0000"
     },
     "done": true
   },
@@ -1314,9 +1163,57 @@
     },
     "done": true
   },
-  "minecraft:story/root": {
+  "minecraft:recipes/decorations/torch": {
     "criteria": {
-      "crafting_table": "2024-12-17 03:46:00 +0000"
+      "has_stone_pickaxe": "2024-12-17 03:47:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2024-12-17 03:47:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2024-12-17 03:47:15 +0000"
+    },
+    "done": true
+  },
+  "cnc:harmless_snakeadvancement": {
+    "criteria": {
+      "harmless_snakeadvancement_0": "2024-12-17 03:47:32 +0000"
+    },
+    "done": true
+  },
+  "slashblade:material/proudsoul_tiny": {
+    "criteria": {
+      "BrokenBlade": "2024-12-17 03:48:16 +0000"
+    },
+    "done": true
+  },
+  "slashblade:root": {
+    "criteria": {
+      "attackTheEntity": "2024-12-17 03:48:16 +0000"
+    },
+    "done": true
+  },
+  "bonfires:bonfires/root": {
+    "criteria": {
+      "died": "2024-12-17 03:48:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2024-12-17 03:48:18 +0000"
+    },
+    "done": true
+  },
+  "bonfires:recipes/brewing/estus_shard": {
+    "criteria": {
+      "has_the_recipe": "2024-12-17 03:48:18 +0000"
     },
     "done": true
   },
@@ -1326,9 +1223,57 @@
     },
     "done": true
   },
-  "supplementaries:recipes/flags/flag_lime": {
+  "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "has_stick": "2024-12-17 03:46:00 +0000"
+      "minecraft:river": "2024-12-17 03:50:33 +0000"
+    },
+    "done": false
+  },
+  "the_bumblezone:teleportation/is_near_beehive": {
+    "criteria": {
+      "is_near_beehive": "2024-12-17 03:52:06 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flower_box": {
+    "criteria": {
+      "has_dirt": "2024-12-17 03:53:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2024-12-17 03:53:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2024-12-17 03:53:56 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/birch_branch_from_birch_log": {
+    "criteria": {
+      "has_log": "2024-12-17 03:53:56 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/coal": {
+    "criteria": {
+      "has_coal": "2024-12-17 21:11:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2024-12-17 21:11:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge_from_greenpowder": {
+    "criteria": {
+      "has_coal": "2024-12-17 21:11:27 +0000"
     },
     "done": true
   },

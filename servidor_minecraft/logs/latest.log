@@ -3123,3 +3123,12 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [17Dec2024 21:04:00.859] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/player/AdvancementEvent$AdvancementProgressEvent$ProgressType
 [17Dec2024 21:04:05.237] [Netty Epoll Server IO #4/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/network/NetworkEvent$RegistrationChangeType
 [17Dec2024 21:04:05.642] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to B3njaxx_11 (1e2ff22d-2c9b-3ce9-9d6e-8df0fcdaea21)
+[17Dec2024 21:08:46.047] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: B3njaxx_11 moved too quickly! 8.758814815354071,2.395575898673286,-4.310495637684099
+[17Dec2024 21:09:48.916] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[17Dec2024 21:09:48.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <B3njaxx_11> aa
+[17Dec2024 21:10:43.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <B3njaxx_11> aa
+[17Dec2024 21:10:50.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <B3njaxx_11> a
+[17Dec2024 21:11:07.702] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting fuzs/puzzleslib/api/event/v1/core/EventResult
+[17Dec2024 21:14:13.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <B3njaxx_11> t
+[17Dec2024 21:15:13.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <B3njaxx_11> as
+[17Dec2024 21:15:57.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <B3njaxx_11> t
