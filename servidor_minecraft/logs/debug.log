@@ -12580,3 +12580,328 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [19Dec2024 00:18:33.247] [Worker-Main-10/DEBUG] [ModernFix/]: Structure kaisyn:outpost/towers/exclusives/oriental/base_plate is being run through DFU (hash 6211e7c7a3df70dc70bead242994ac8a5600ba477ac3d19128b766f92f4ba880), this will cause launch time delays
 [19Dec2024 00:18:33.346] [Worker-Main-10/DEBUG] [ModernFix/]: Structure kaisyn:outpost/towers/snowy_slopes/base_plate is being run through DFU (hash 765af0ac54824938fd1ac1b78406fc88a1e1fd7999d8e58cda6e32dbc5f6a46f), this will cause launch time delays
 [19Dec2024 00:18:33.421] [Worker-Main-10/DEBUG] [ModernFix/]: Structure kaisyn:outpost/towers/mushroom_fields/base_plate is being run through DFU (hash b760d725d73ca7044be56ac0a402541b78066fadf793e5c09d1c5e3a497cd966), this will cause launch time delays
+[19Dec2024 00:18:33.533] [Worker-Main-10/DEBUG] [ModernFix/]: Structure kaisyn:outpost/towers/snowy_plains/base_plate is being run through DFU (hash d0d1fb1e575734c3adab9e4e2abce922ec487678e59b03c90521a8fd2e669e78), this will cause launch time delays
+[19Dec2024 00:18:33.639] [Worker-Main-10/DEBUG] [ModernFix/]: Structure kaisyn:outpost/camps/wooded_badlands/base_plate is being run through DFU (hash 99c4dddde1c6b825620572591e0ca0fb8af377b9a9332e507ae5dd3777e9029b), this will cause launch time delays
+[19Dec2024 00:18:33.774] [Worker-Main-10/DEBUG] [ModernFix/]: Structure kaisyn:ships/pillager_outpost_ocean/base_plate is being run through DFU (hash f6771cf443289d3b6e4105472d5434c1ada6691694339598c38a0b509da1447c), this will cause launch time delays
+[19Dec2024 00:18:34.224] [Worker-Main-10/DEBUG] [ModernFix/]: Structure kaisyn:outpost/towers/forest/base_plate is being run through DFU (hash 0a5753bb7ca9c6fa9a8254c57a1b99c31b73947e46565a6f9d861f92207ca052), this will cause launch time delays
+[19Dec2024 00:18:34.328] [Worker-Main-10/DEBUG] [ModernFix/]: Structure kaisyn:outpost/forts/exclusives/iberian/base_plate is being run through DFU (hash 24ee45fa64f34e3e1aac4e02469896e46af6be51ee2fcb004102bf0e6c045f59), this will cause launch time delays
+[19Dec2024 00:18:34.410] [Worker-Main-10/DEBUG] [ModernFix/]: Structure kaisyn:outpost/forts/exclusives/classic/base_plate is being run through DFU (hash 50297fbcc31dc4b890033366c281432ad93936c2ae3603d986ab7aeca867f627), this will cause launch time delays
+[19Dec2024 00:18:34.474] [Worker-Main-10/DEBUG] [ModernFix/]: Structure kaisyn:outpost/forts/exclusives/rustic/base_plate is being run through DFU (hash 9d528db066af5e1af7f04d92059ea0e1be0e63536de733f29482126835511441), this will cause launch time delays
+[19Dec2024 00:18:34.613] [Worker-Main-10/DEBUG] [ModernFix/]: Structure kaisyn:outpost/towers/exclusives/swedish/base_plate is being run through DFU (hash 7bbe5d1074795bb106a224836677f596eb214edcb479244fdbe4cc94bd00f133), this will cause launch time delays
+[19Dec2024 00:18:34.683] [Worker-Main-10/DEBUG] [ModernFix/]: Structure kaisyn:outpost/towers/sunflower_plains/base_plate is being run through DFU (hash 06f16f97b09a5e8adc7290c708759fc6b5c8159601ef1fdba9bf6c614d2197b1), this will cause launch time delays
+[19Dec2024 00:18:34.804] [Worker-Main-10/DEBUG] [ModernFix/]: Structure kaisyn:outpost/forts/jungle/base_plate is being run through DFU (hash 51b3896194db686d94c76a4d1f1cf94206abc2e10392db52d0278f6c2d97edaf), this will cause launch time delays
+[19Dec2024 00:18:35.032] [Worker-Main-10/DEBUG] [ModernFix/]: Structure kaisyn:outpost/towers/meadow/base_plate is being run through DFU (hash df0ceae8e838681e4f8dd4c14431774decfa99a9e4366cba93582c6adadce715), this will cause launch time delays
+[19Dec2024 00:18:35.076] [Worker-Main-10/DEBUG] [ModernFix/]: Structure kaisyn:outpost/forts/desert/base_plate is being run through DFU (hash 4a6ba8041d86bb7b58bb46f44eb1387d1e1500547bb18c2df4e9fcf6c0b97d4e), this will cause launch time delays
+[19Dec2024 00:18:35.162] [Worker-Main-10/DEBUG] [ModernFix/]: Structure kaisyn:outpost/towers/exclusives/tudor/base_plate is being run through DFU (hash 2e635aec7cd9c928a0e1f85b2040f11087463ddbe83a8dbcf0fa4bcdda4b66b8), this will cause launch time delays
+[19Dec2024 00:18:35.212] [Worker-Main-10/DEBUG] [ModernFix/]: Structure kaisyn:outpost/camps/sparse_jungle/base_plate is being run through DFU (hash 10851b17d358ebf99da31ba24183f43e68df5b4ea88fd1dafcfeb3d7a204f71f), this will cause launch time delays
+[19Dec2024 00:18:35.222] [Worker-Main-10/DEBUG] [ModernFix/]: Structure kaisyn:outpost/towers/flower_forest/base_plate is being run through DFU (hash 196870aa8df7ccddd84b916d2b639ab1bd1308f6ffa1e98f248c53e162a8daab), this will cause launch time delays
+[19Dec2024 00:18:35.261] [Worker-Main-10/DEBUG] [ModernFix/]: Structure kaisyn:outpost/towers/savanna/base_plate is being run through DFU (hash 9ba74f75a48a768b2b9c622884d82dcce256810b26e0d2ea849ab8dd70d67311), this will cause launch time delays
+[19Dec2024 00:18:35.304] [Worker-Main-10/DEBUG] [ModernFix/]: Structure kaisyn:outpost/towers/swamp/base_plate is being run through DFU (hash a637958631330250aae3cbb1e69cedcd08a2e33a1a78e38b337d1a3ae66139be), this will cause launch time delays
+[19Dec2024 00:18:35.362] [Worker-Main-10/DEBUG] [ModernFix/]: Structure kaisyn:outpost/towers/taiga/base_plate is being run through DFU (hash c696035904979394c4ecc3d506d2009e052646afd1b666561d65b07e10196f89), this will cause launch time delays
+[19Dec2024 00:18:52.131] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/commands/SharedSuggestionProvider$ElementSuggestionType
+[19Dec2024 00:19:05.776] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/StructureCheckResult
+[19Dec2024 00:19:05.780] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element towns_and_towers:village_forest took 11 ms
+[19Dec2024 00:19:08.787] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:well/well_anchor_oak
+[19Dec2024 00:19:08.801] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_heart
+[19Dec2024 00:19:08.804] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_path_tiny_srb
+[19Dec2024 00:19:08.805] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_path_lb
+[19Dec2024 00:19:08.807] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_path_lc
+[19Dec2024 00:19:08.808] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_path_short_c
+[19Dec2024 00:19:08.808] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_path_long_c
+[19Dec2024 00:19:08.809] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_path_tiny_sc
+[19Dec2024 00:19:08.810] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_3x3_1
+[19Dec2024 00:19:08.811] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_3x3_3
+[19Dec2024 00:19:08.814] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_3x4_2
+[19Dec2024 00:19:08.817] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_4x4_2
+[19Dec2024 00:19:08.821] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_3x4_1
+[19Dec2024 00:19:08.822] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_hallway_lock
+[19Dec2024 00:19:08.823] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_path_short_srb
+[19Dec2024 00:19:08.824] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_path_short_sa
+[19Dec2024 00:19:08.825] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_path_short_src
+[19Dec2024 00:19:08.825] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_path_tiny_sa
+[19Dec2024 00:19:08.826] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_path_tiny_b
+[19Dec2024 00:19:08.826] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_path_long_b
+[19Dec2024 00:19:08.827] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_path_short_a
+[19Dec2024 00:19:08.827] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_path_tiny_c
+[19Dec2024 00:19:08.828] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_path_short_b
+[19Dec2024 00:19:08.828] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_path_tiny_a
+[19Dec2024 00:19:08.829] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_3x4_5
+[19Dec2024 00:19:08.831] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_4x4_4
+[19Dec2024 00:19:08.832] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_4x4_1
+[19Dec2024 00:19:08.834] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_3x3_4
+[19Dec2024 00:19:08.835] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_3x3_2
+[19Dec2024 00:19:08.837] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_3x3_5
+[19Dec2024 00:19:08.841] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_5x6_3
+[19Dec2024 00:19:08.843] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_3x4_3
+[19Dec2024 00:19:08.845] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_5x6_2
+[19Dec2024 00:19:08.846] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_path_long_a
+[19Dec2024 00:19:08.847] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_path_short_sra
+[19Dec2024 00:19:08.848] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_path_long_sra
+[19Dec2024 00:19:08.849] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_path_long_sb
+[19Dec2024 00:19:08.850] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_path_long_srb
+[19Dec2024 00:19:08.851] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_3x4_4
+[19Dec2024 00:19:08.855] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_5x6_1
+[19Dec2024 00:19:08.858] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_3x3_6
+[19Dec2024 00:19:08.860] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_hideout/illager_hideout_4x4_3
+[19Dec2024 00:19:08.985] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of supplementaries:way_sign
+[19Dec2024 00:19:09.207] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of totw_modded:badlands/badlands_tower_bottom
+[19Dec2024 00:19:09.216] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of totw_modded:ocean_warm/ocean_warm_tower_bottom
+[19Dec2024 00:19:09.224] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of totw_modded:desert/desert_tower_bottom
+[19Dec2024 00:19:09.229] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of totw_modded:derelict/derelict_tower_bottom
+[19Dec2024 00:19:09.233] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of totw_modded:ocean/ocean_tower_bottom
+[19Dec2024 00:19:09.241] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of totw_modded:jungle/jungle_tower_bottom
+[19Dec2024 00:19:09.246] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of totw_modded:derelict_grass/derelict_grass_tower_bottom
+[19Dec2024 00:19:09.251] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of totw_modded:ice/ice_tower_bottom
+[19Dec2024 00:19:10.413] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of luminousworld:woak2
+[19Dec2024 00:19:11.388] [Worker-Main-2/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombietoxicboss at BlockPos{x=15, y=-37, z=834} at Chest with:minecraft:chests/simple_dungeon
+[19Dec2024 00:19:11.589] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of luminousworld:auburntreeone
+[19Dec2024 00:19:11.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Teleported B3njaxx_11 to 32.500000, -20.162689, 816.500000]
+[19Dec2024 00:19:11.631] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3309ms or 66 ticks behind
+[19Dec2024 00:19:12.058] [IO-Worker-46/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-49
+[19Dec2024 00:19:12.091] [IO-Worker-47/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-50
+[19Dec2024 00:19:12.849] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_enhanced:tower_of_the_undead/small
+[19Dec2024 00:19:13.168] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_enhanced:desert_temple/main
+[19Dec2024 00:19:16.178] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of luminousworld:woak1
+[19Dec2024 00:19:24.190] [Worker-Main-11/DEBUG] [ModernFix/]: Structure nova_structures:mangrove_witch_hut/mangrove_witch_hut_1 is being run through DFU (hash cadd627a5236f5cbea8fb46544db537f1301b4a8cf05db15c46d084cf70444a1), this will cause launch time delays
+[19Dec2024 00:19:26.644] [Worker-Main-11/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:cavespiderboss at BlockPos{x=92, y=18, z=944} at Chest with:betterdungeons:spider_dungeon/chests/egg_room
+[19Dec2024 00:19:28.141] [Worker-Main-10/DEBUG] [ModernFix/]: Structure luminousworld:ms1 is being run through DFU (hash d0ae4ae36e8feeed483a5fd87ab1890df02296b2e1f8e58b05d1e32ae139173c), this will cause launch time delays
+[19Dec2024 00:19:34.256] [Worker-Main-11/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:vexboss at BlockPos{x=205, y=-5, z=991} at Chest with:minecraft:chests/simple_dungeon
+[19Dec2024 00:20:13.977] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/town_centers/plains_fountain_01
+[19Dec2024 00:20:13.983] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/desert/town_centers/desert_meeting_point_2
+[19Dec2024 00:20:13.990] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/snowy/town_centers/snowy_meeting_point_1
+[19Dec2024 00:20:13.998] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/streets/turn_01
+[19Dec2024 00:20:13.999] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/houses/plains_small_house_1
+[19Dec2024 00:20:14.001] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/houses/plains_small_house_2
+[19Dec2024 00:20:14.003] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/houses/plains_small_house_3
+[19Dec2024 00:20:14.005] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/houses/plains_small_house_4
+[19Dec2024 00:20:14.006] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/houses/plains_small_house_5
+[19Dec2024 00:20:14.007] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/houses/plains_small_house_6
+[19Dec2024 00:20:14.034] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/houses/plains_small_house_7
+[19Dec2024 00:20:14.037] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/houses/plains_small_house_8
+[19Dec2024 00:20:14.041] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/houses/plains_medium_house_1
+[19Dec2024 00:20:14.045] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/houses/plains_medium_house_2
+[19Dec2024 00:20:14.051] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/houses/plains_big_house_1
+[19Dec2024 00:20:14.056] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/houses/plains_butcher_shop_1
+[19Dec2024 00:20:14.061] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/houses/plains_butcher_shop_2
+[19Dec2024 00:20:14.063] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/houses/plains_tool_smith_1
+[19Dec2024 00:20:14.065] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/houses/plains_fletcher_house_1
+[19Dec2024 00:20:14.068] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/houses/plains_shepherds_house_1
+[19Dec2024 00:20:14.071] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/houses/plains_armorer_house_1
+[19Dec2024 00:20:14.074] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/houses/plains_fisher_cottage_1
+[19Dec2024 00:20:14.077] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/houses/plains_tannery_1
+[19Dec2024 00:20:14.079] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/houses/plains_cartographer_1
+[19Dec2024 00:20:14.087] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/houses/plains_library_1
+[19Dec2024 00:20:14.091] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/houses/plains_library_2
+[19Dec2024 00:20:14.093] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/houses/plains_masons_house_1
+[19Dec2024 00:20:14.097] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/houses/plains_weaponsmith_1
+[19Dec2024 00:20:14.100] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/houses/plains_temple_3
+[19Dec2024 00:20:14.103] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/houses/plains_temple_4
+[19Dec2024 00:20:14.105] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/houses/plains_stable_1
+[19Dec2024 00:20:14.106] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/houses/plains_stable_2
+[19Dec2024 00:20:14.107] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/houses/plains_large_farm_1
+[19Dec2024 00:20:14.108] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/houses/plains_small_farm_1
+[19Dec2024 00:20:14.109] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/houses/plains_animal_pen_1
+[19Dec2024 00:20:14.110] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/houses/plains_animal_pen_2
+[19Dec2024 00:20:14.111] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/houses/plains_animal_pen_3
+[19Dec2024 00:20:14.111] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/houses/plains_accessory_1
+[19Dec2024 00:20:14.112] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/houses/plains_meeting_point_4
+[19Dec2024 00:20:14.113] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/houses/plains_meeting_point_5
+[19Dec2024 00:20:14.114] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:hateno_village_goddess_statue
+[19Dec2024 00:20:14.114] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:plains_village_horned_statue
+[19Dec2024 00:20:14.115] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:village/plains_scriber_1
+[19Dec2024 00:20:14.116] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/terminators/terminator_01
+[19Dec2024 00:20:14.116] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/terminators/terminator_02
+[19Dec2024 00:20:14.116] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/terminators/terminator_03
+[19Dec2024 00:20:14.116] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/terminators/terminator_04
+[19Dec2024 00:20:14.120] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/streets/straight_04
+[19Dec2024 00:20:14.137] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/streets/crossroad_06
+[19Dec2024 00:20:14.138] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/streets/straight_06
+[19Dec2024 00:20:14.138] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/streets/corner_01
+[19Dec2024 00:20:14.139] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/streets/corner_02
+[19Dec2024 00:20:14.139] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/streets/corner_03
+[19Dec2024 00:20:14.140] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/streets/straight_01
+[19Dec2024 00:20:14.140] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/streets/straight_02
+[19Dec2024 00:20:14.140] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/streets/straight_03
+[19Dec2024 00:20:14.141] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/streets/straight_05
+[19Dec2024 00:20:14.141] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/streets/crossroad_01
+[19Dec2024 00:20:14.141] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/streets/crossroad_02
+[19Dec2024 00:20:14.142] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/streets/crossroad_03
+[19Dec2024 00:20:14.143] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/streets/crossroad_04
+[19Dec2024 00:20:14.143] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/streets/crossroad_05
+[19Dec2024 00:20:14.308] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:horned_statue/yes
+[19Dec2024 00:20:14.308] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:horned_statue/no
+[19Dec2024 00:20:16.556] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_jungle/jungle_village_center3
+[19Dec2024 00:20:16.561] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_swamp/swamp_village_center3
+[19Dec2024 00:20:16.565] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:village_plains took 2602 ms
+[19Dec2024 00:20:16.566] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2594ms or 51 ticks behind
+[19Dec2024 00:20:19.716] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_enhanced:large_dungeon/root
+[19Dec2024 00:20:19.721] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_enhanced:large_dungeon/cross
+[19Dec2024 00:20:19.722] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_enhanced:large_dungeon/tunnel
+[19Dec2024 00:20:19.722] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_enhanced:large_dungeon/storage
+[19Dec2024 00:20:19.723] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_enhanced:large_dungeon/parkour
+[19Dec2024 00:20:19.724] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_enhanced:large_dungeon/stairs is being run through DFU (hash d7221d6218cee274f1cdaee1eca4b089d76146e448a71c34a7376da478b4fb69), this will cause launch time delays
+[19Dec2024 00:20:19.740] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_enhanced:large_dungeon/room_small1 is being run through DFU (hash 8aa33f82df059aebac7723e507df41437e512f70c2f6dc711e5f92f824317fa3), this will cause launch time delays
+[19Dec2024 00:20:19.794] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_enhanced:large_dungeon/room_big is being run through DFU (hash 04c786e02fb7aee66e65fa5e7287ccefbf31e04b9842fc97994c9efeadc7eb64), this will cause launch time delays
+[19Dec2024 00:20:19.838] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_enhanced:large_dungeon/room2 is being run through DFU (hash a4e6b37287425c558a4275223b476b006c2224cdeb437179f0a21d75f995860c), this will cause launch time delays
+[19Dec2024 00:20:19.845] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_enhanced:large_dungeon/room1
+[19Dec2024 00:20:19.845] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_enhanced:large_dungeon/room_small2 is being run through DFU (hash 7a257ffd48278e97c912e510e789f3875ecec4aa4618172a9f7477a476b7a91d), this will cause launch time delays
+[19Dec2024 00:20:20.328] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:lighthouse/lighthouse_part_1
+[19Dec2024 00:20:20.377] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_0
+[19Dec2024 00:20:20.383] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/skeleton_armored_1
+[19Dec2024 00:20:20.384] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/skeleton_armored_0
+[19Dec2024 00:20:20.384] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/illusioner_normal_0
+[19Dec2024 00:20:20.385] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_road_0
+[19Dec2024 00:20:20.390] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_road_1
+[19Dec2024 00:20:20.395] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_road_entrance
+[19Dec2024 00:20:20.403] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_deco_2
+[19Dec2024 00:20:20.423] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_deco_1
+[19Dec2024 00:20:20.426] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_deco_0
+[19Dec2024 00:20:21.277] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mangrove/pathlong_3
+[19Dec2024 00:20:21.280] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/bamboo/path_1_alt
+[19Dec2024 00:20:21.282] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/spruce/path_alt
+[19Dec2024 00:20:21.282] [Worker-Main-10/DEBUG] [ModernFix/]: Structure hopo:mineshaft/stone/entrance_1_alt is being run through DFU (hash fc41aabb1d55f7edd0099e0e526ae1fdacf51c67c50d2a2479c7f2e9a9d1b7ef), this will cause launch time delays
+[19Dec2024 00:20:21.285] [Worker-Main-10/DEBUG] [ModernFix/]: Structure hopo:mineshaft/birch/pathlong_1 is being run through DFU (hash 2524a770f6f49e46b2fff585adf06e55d0977b11ddfac5f6fcdc5a8268970e5f), this will cause launch time delays
+[19Dec2024 00:20:21.288] [Worker-Main-10/DEBUG] [ModernFix/]: Structure hopo:mineshaft/oak/down_3 is being run through DFU (hash 8c7d4197da0845afd21acea71d69e3a638b5c4a135cf5296ab110b6d27d29656), this will cause launch time delays
+[19Dec2024 00:20:21.296] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/turn
+[19Dec2024 00:20:21.296] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/entrance
+[19Dec2024 00:20:21.300] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/pathlong_1
+[19Dec2024 00:20:21.302] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/dark_oak/path_1_alt
+[19Dec2024 00:20:21.304] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/cherry/path
+[19Dec2024 00:20:21.307] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/jungle/path_1_alt
+[19Dec2024 00:20:21.444] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-33 absolute--50 absolute]
+[19Dec2024 00:20:21.645] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_enhanced:monster_maze/root
+[19Dec2024 00:20:24.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Teleported B3njaxx_11 to 720.500000, 77.337255, 1136.500000]
+[19Dec2024 00:20:25.964] [Worker-Main-2/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:huskboss at BlockPos{x=802, y=1, z=1136} at Chest with:minecraft:chests/simple_dungeon
+[19Dec2024 00:20:26.877] [Worker-Main-10/DEBUG] [ModernFix/]: Structure keebsz:stonebrick_battletower/floor1and2_underground/stonebrick_floor1and2_underground_2 is being run through DFU (hash cede89258cb22dbadedc55c0029fc9bfde2e180c91692feb5888fb20a04d6c10), this will cause launch time delays
+[19Dec2024 00:20:26.900] [Worker-Main-10/DEBUG] [ModernFix/]: Structure keebsz:stonebrick_battletower/floor1and2/stonebrick_floor1and2_2 is being run through DFU (hash f24f74a83f37f309746dd9a568c3c822be05e508f48bbf237461ca840713cf97), this will cause launch time delays
+[19Dec2024 00:20:26.914] [Worker-Main-10/DEBUG] [ModernFix/]: Structure keebsz:sandstone_battletower/floor1and2/sandstone_floor1and2_2 is being run through DFU (hash 1775906f79fbdbb48728e4ddf974e6018e65b133d8fc61b99fed74b368435eac), this will cause launch time delays
+[19Dec2024 00:20:26.961] [Worker-Main-10/DEBUG] [ModernFix/]: Structure keebsz:packed_ice_battletower/floor1and2/packed_ice_floor1and2_2 is being run through DFU (hash 24acdecdac92116cedcaac783d18f08b1f29d7de8e73c039650e30da520137cc), this will cause launch time delays
+[19Dec2024 00:20:26.976] [Worker-Main-10/DEBUG] [ModernFix/]: Structure keebsz:cobblestone_battletower/floor1and2/cobblestone_floor1and2_2 is being run through DFU (hash f6d0447afdff1cb777f06827c2eeefaf18631439d8d262a779f65c697dad47e0), this will cause launch time delays
+[19Dec2024 00:20:26.990] [Worker-Main-10/DEBUG] [ModernFix/]: Structure keebsz:stone_battletower/floor1and2_underground/stone_floor1and2_underground_2 is being run through DFU (hash 23a02b3885075f2b2824e4dd95484f0fad17e48ec7a5ad8e61fed52b797115ee), this will cause launch time delays
+[19Dec2024 00:20:27.006] [Worker-Main-10/DEBUG] [ModernFix/]: Structure keebsz:sandstone_battletower/floor1and2_underground/sandstone_floor1and2_underground_2 is being run through DFU (hash d3004dfe5d6fba9294376b87618b2a1a520f4249bce9c60df7f7e998115cec32), this will cause launch time delays
+[19Dec2024 00:20:27.037] [Worker-Main-10/DEBUG] [ModernFix/]: Structure keebsz:stone_battletower/floor1and2/stone_floor1and2_2 is being run through DFU (hash aaaaf6fc38a1dc76743a8ef3817e3127871730b79fc409c78b729895e9f3f4d2), this will cause launch time delays
+[19Dec2024 00:20:27.052] [Worker-Main-10/DEBUG] [ModernFix/]: Structure keebsz:cobblestone_battletower/floor1and2_underground/cobblestone_floor1and2_underground_2 is being run through DFU (hash 02edf678e7f10466f0ca6d5041d05049cd21bd3ad65de75633f02dd410f20552), this will cause launch time delays
+[19Dec2024 00:20:27.068] [Worker-Main-10/DEBUG] [ModernFix/]: Structure keebsz:red_sandstone_battletower/floor1and2/red_sandstone_floor1and2_2 is being run through DFU (hash 5390cfafe94f5559761c826f6fa883473c9bc08b95453c94e3bf42bb8d6f3f82), this will cause launch time delays
+[19Dec2024 00:20:27.515] [Worker-Main-10/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/enums/EnumBestiaryPages
+[19Dec2024 00:20:29.232] [Worker-Main-10/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:evilchickenboss at BlockPos{x=791, y=89, z=1200} at Chest with:minecraft:chests/village/village_armorer
+[19Dec2024 00:20:29.870] [Worker-Main-11/DEBUG] [mixin/]: Mixing entities.AmphibiousNodeEvaluatorMixin from the_bumblezone-common.mixins.json into net.minecraft.world.level.pathfinder.AmphibiousNodeEvaluator
+[19Dec2024 00:20:30.812] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of gnumus:gnumus_ruins
+[19Dec2024 00:20:31.239] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_enhanced:desert_tomb/root
+[19Dec2024 00:20:31.252] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_enhanced:jungle_monument
+[19Dec2024 00:20:32.118] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of luminousworld:birchtreenew2
+[19Dec2024 00:20:32.981] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of luminousworld:birchtreenew1
+[19Dec2024 00:20:33.085] [IO-Worker-47/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-51
+[19Dec2024 00:20:33.228] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/IronGolem$Crackiness
+[19Dec2024 00:20:34.471] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/dark_oak/turn_2
+[19Dec2024 00:20:34.474] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/path
+[19Dec2024 00:20:34.481] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/turn_1
+[19Dec2024 00:20:34.482] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/turn
+[19Dec2024 00:20:34.487] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/spruce/pathlong_1
+[19Dec2024 00:20:34.489] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/path_alt
+[19Dec2024 00:20:34.490] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/bamboo/turn_2
+[19Dec2024 00:20:34.493] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/stone/pathlong_1
+[19Dec2024 00:20:34.495] [Worker-Main-2/DEBUG] [ModernFix/]: Structure hopo:mineshaft/cherry/pathlong_3 is being run through DFU (hash 91192dcc556d417d297c2fcb4002083860dc13f4db7bf8adcdb82395e9858d6c), this will cause launch time delays
+[19Dec2024 00:20:34.519] [Worker-Main-2/DEBUG] [ModernFix/]: Structure hopo:mineshaft/birch/entrance_alt is being run through DFU (hash 452180d2b4a65a3dc4e802b7774b565b99026eb673367a0350d20a2d8e7bca71), this will cause launch time delays
+[19Dec2024 00:20:34.523] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/jungle/turn_2
+[19Dec2024 00:20:34.525] [Worker-Main-2/DEBUG] [ModernFix/]: Structure hopo:mineshaft/mangrove/trap/trap_5 is being run through DFU (hash be352b29bce13d59aeac26456e8a5e4ba3645bc86d669bd766e08348004bfa56), this will cause launch time delays
+[19Dec2024 00:20:35.235] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:bunker/bunker_enterance_3
+[19Dec2024 00:20:36.216] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/entrance_1
+[19Dec2024 00:20:36.217] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/path_1
+[19Dec2024 00:20:36.218] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/jungle/entrance_alt
+[19Dec2024 00:20:36.219] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/turn_2
+[19Dec2024 00:20:36.220] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/bamboo/entrance_alt
+[19Dec2024 00:20:36.221] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/dark_oak/entrance_alt
+[19Dec2024 00:20:36.222] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/path_1_alt
+[19Dec2024 00:20:36.223] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/turn_2
+[19Dec2024 00:20:37.980] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Dec2024 00:20:38.007] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Dec2024 00:20:40.321] [Worker-Main-2/DEBUG] [ModernFix/]: Structure alexscaves:abyssal_ruins_2 is being run through DFU (hash a065931b223ae535149a44ab4e3db455be860fdbe3a3e47acc2e1db87b459ef8), this will cause launch time delays
+[19Dec2024 00:20:41.405] [Worker-Main-11/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:evilchickenboss at BlockPos{x=824, y=74, z=1064} at Chest with:minecraft:chests/village/village_armorer
+[19Dec2024 00:20:42.163] [Worker-Main-11/DEBUG] [ModernFix/]: Structure luminousworld:ls1 is being run through DFU (hash 4fa6d1ac191c77b241c643049eeff7e8f42031f7d538e94e5e9d2e04bbce94b2), this will cause launch time delays
+[19Dec2024 00:20:42.167] [Worker-Main-11/DEBUG] [ModernFix/]: Structure luminousworld:ss1 is being run through DFU (hash b50f3d7e9384a9371f1df977efc050fc45a8fb3991f1ab5bd01faf488211e231), this will cause launch time delays
+[19Dec2024 00:20:43.923] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/bamboo/path_alt
+[19Dec2024 00:20:43.924] [Worker-Main-11/DEBUG] [ModernFix/]: Structure hopo:mineshaft/acacia/down_4 is being run through DFU (hash cd43cd894d29bb3a4b303db8c73e129fc1ff1834cc94ae976b8789a8d30ed519), this will cause launch time delays
+[19Dec2024 00:20:43.929] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/entrance_alt
+[19Dec2024 00:20:43.930] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/dark_oak/path_alt
+[19Dec2024 00:20:43.932] [Worker-Main-11/DEBUG] [ModernFix/]: Structure hopo:mineshaft/stone/pathlong_3 is being run through DFU (hash 0254a8d026137a6ad099f5e291486ce8ad834291b76e2fc911c004ba734c8b43), this will cause launch time delays
+[19Dec2024 00:20:43.938] [Worker-Main-11/DEBUG] [ModernFix/]: Structure hopo:mineshaft/mangrove/entrance_alt is being run through DFU (hash 1b9ec14d3318879926aaef222468361db70a04a761a2981fba645ba68e0b9d9d), this will cause launch time delays
+[19Dec2024 00:20:43.941] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/jungle/path_alt
+[19Dec2024 00:20:43.942] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/entrance_alt
+[19Dec2024 00:20:43.942] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/path_1
+[19Dec2024 00:20:43.943] [Worker-Main-11/DEBUG] [ModernFix/]: Structure hopo:mineshaft/cherry/path_1_alt is being run through DFU (hash 6ddad12ed4ea79a625f503f755483c3fd87b44040a72719459bfaa28fdaa776c), this will cause launch time delays
+[19Dec2024 00:20:43.950] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/path_1_alt
+[19Dec2024 00:20:43.951] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/spruce/trap/trap_2
+[19Dec2024 00:20:44.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 has made the advancement [What a Dungeon!]
+[19Dec2024 00:20:44.765] [Worker-Main-11/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:pillagerboss at BlockPos{x=813, y=-49, z=1311} at Chest with:minecraft:chests/simple_dungeon
+[19Dec2024 00:20:46.004] [Worker-Main-10/DEBUG] [ModernFix/]: Structure gnumus:traders_rest is being run through DFU (hash 430db0af69d54e86dadfa55b6f1231d888f1d8fed36653df7e80220d47e80da7), this will cause launch time delays
+[19Dec2024 00:20:53.675] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:mangrove_witch_hut/mangrove_witch_hut_3
+[19Dec2024 00:20:53.693] [Worker-Main-10/DEBUG] [ModernFix/]: Structure alexscaves:abyssal_ruins_1 is being run through DFU (hash d1f776f1e47613d0d2f150ddb53693548859d3ad87c74a97a019bd4d775f1fb2), this will cause launch time delays
+[19Dec2024 00:20:54.377] [Worker-Main-11/DEBUG] [ModernFix/]: Structure alexscaves:abyssal_ruins_3 is being run through DFU (hash be77ebec84ed7c0144ab92932235a9493381fb80158bd5ea4580901bf0987560), this will cause launch time delays
+[19Dec2024 00:20:55.276] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of queen_bee:beehive
+[19Dec2024 00:21:14.602] [Worker-Main-2/DEBUG] [ModernFix/]: Structure nova_structures:wild_ruin/wild_ruin_10 is being run through DFU (hash 6a08c224a6476bee9f71a7e9a61eedfc6a182f1b196df805242687d0196aef5d), this will cause launch time delays
+[19Dec2024 00:21:22.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Creative Mode]
+[19Dec2024 00:21:24.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Survival Mode]
+[19Dec2024 00:21:26.676] [Worker-Main-11/DEBUG] [ModernFix/]: Structure hopo:portal8 is being run through DFU (hash 2c9437842d1ef069d3bd8710696a7e4b3e5ae28e25adcbad4d6d2de170dfeb27), this will cause launch time delays
+[19Dec2024 00:21:48.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 has made the advancement [Amateur Archaeologist]
+[19Dec2024 00:22:36.128] [Worker-Main-10/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombieboss at BlockPos{x=500, y=-46, z=1169} at Chest with:minecraft:chests/simple_dungeon
+[19Dec2024 00:22:51.527] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of keebsz:stonebrick_battletower/floor1and2_underground/stonebrick_floor1and2_underground_3
+[19Dec2024 00:22:51.531] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of keebsz:stonebrick_battletower/floor3and4_underground/stonebrick_floor3and4_underground
+[19Dec2024 00:22:51.533] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of keebsz:stonebrick_battletower/floor5and6_underground/stonebrick_floor5and6_underground_4
+[19Dec2024 00:22:51.535] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of keebsz:stonebrick_battletower/floor7and8_underground/stonebrick_floor7and8_underground_2
+[19Dec2024 00:22:51.537] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of keebsz:stonebrick_battletower/floor9and10_underground/stonebrick_floor9and10_underground
+[19Dec2024 00:22:51.538] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of keebsz:tower_bosses/teleporter/tp_4
+[19Dec2024 00:22:51.538] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of keebsz:tower_bosses/teleporter/tp_2
+[19Dec2024 00:22:51.538] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of keebsz:tower_bosses/teleporter/tp_1
+[19Dec2024 00:22:51.539] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of keebsz:tower_bosses/teleporter/tp_3
+[19Dec2024 00:22:51.539] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of keebsz:tower_bosses/default
+[19Dec2024 00:22:51.539] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of keebsz:misc/liquid_remover
+[19Dec2024 00:22:51.540] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_3
+[19Dec2024 00:22:53.246] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:desert_ruin/temple/desert_ruins_temple_main_start
+[19Dec2024 00:22:53.764] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2242ms or 44 ticks behind
+[19Dec2024 00:22:53.928] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:guide_post/warm/whole
+[19Dec2024 00:22:53.933] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:guide_post/cold/whole
+[19Dec2024 00:22:54.773] [Worker-Main-2/DEBUG] [ModernFix/]: Structure minecraft:village/plains/town_centers/plains_meeting_point_1 is being run through DFU (hash d83e7f4f286e0960303ccbafbc5c210023d381ebf9ea316dce65a1f452b07d98), this will cause launch time delays
+[19Dec2024 00:22:54.789] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/taiga/town_centers/taiga_meeting_point_2
+[19Dec2024 00:22:54.795] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/savanna/town_centers/savanna_meeting_point_3
+[19Dec2024 00:22:55.229] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_enhanced:castle/top1
+[19Dec2024 00:22:55.650] [Worker-Main-2/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombietoxicboss at BlockPos{x=496, y=-2, z=482} at Chest with:minecraft:chests/simple_dungeon
+[19Dec2024 00:23:25.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Spectator Mode]
+[19Dec2024 00:23:31.260] [Worker-Main-10/DEBUG] [ModernFix/]: Structure nova_structures:wild_ruin/wild_ruin_2 is being run through DFU (hash fcd9576a6a2fbb9c9c9a3a591d5e298318cab018fa17ce47e6d611b9b70e4fa6), this will cause launch time delays
+[19Dec2024 00:23:31.269] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:well/well_anchor_spruce
+[19Dec2024 00:23:31.273] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:well/well_anchor_savana
+[19Dec2024 00:23:31.280] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:well/well_anchor_birch
+[19Dec2024 00:23:31.287] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:well/well_anchor_dark_oak
+[19Dec2024 00:23:31.292] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:well/well_anchor_jungle
+[19Dec2024 00:23:32.504] [IO-Worker-47/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-52
+[19Dec2024 00:23:32.506] [IO-Worker-46/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-53
+[19Dec2024 00:23:33.456] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/nilotic/base_plate
+[19Dec2024 00:23:33.465] [Worker-Main-11/DEBUG] [ModernFix/]: Structure kaisyn:village/jungle_tribal/town_centers/jungle_meeting_point_1 is being run through DFU (hash 2b161666470cdae038cc9215e0866357d25cff7d98b8fe0774ad8fc2d9a1c882), this will cause launch time delays
+[19Dec2024 00:23:33.506] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/town_centers/birch_forest_meeting_point_1
+[19Dec2024 00:23:33.514] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/old_growth_taiga_polish/town_centers/old_growth_taiga_meeting_point_1
+[19Dec2024 00:23:33.521] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/sunflower_plains_farm/town_centers/sunflower_plains_meeting_point_1
+[19Dec2024 00:23:33.528] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_slopes_inn/town_centers/snowy_slopes_meeting_point_1
+[19Dec2024 00:23:33.554] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/beach_lighthouse/town_centers/beach_meeting_point_1
+[19Dec2024 00:23:33.566] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/tudor/town_centers/tudor_meeting_point_1
+[19Dec2024 00:23:33.594] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/wooded_badlands_tipi/town_centers/wooded_badlands_meeting_point_1
+[19Dec2024 00:23:33.601] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/grove_villager_outpost/grove_table_1
+[19Dec2024 00:23:35.490] [Worker-Main-10/DEBUG] [ModernFix/]: Structure nova_structures:wild_ruin/wild_ruin_7b is being run through DFU (hash 040399b93e9f805ec27d92879d128ce55a06eb8b74de068d534952c1bd955b37), this will cause launch time delays
+[19Dec2024 00:23:37.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Creative Mode]
+[19Dec2024 00:24:18.780] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[19Dec2024 00:24:22.810] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/lionfishapi/server/animation/AnimationHandler
+[19Dec2024 00:24:48.338] [IO-Worker-53/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-54
+[19Dec2024 00:24:54.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Survival Mode]
+[19Dec2024 00:24:56.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 has made the advancement [Sweet Dreams]
+[19Dec2024 00:25:16.117] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Dec2024 00:25:16.137] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Dec2024 00:26:04.918] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/11297, l='ServerLevel[world]', x=715.14, y=62.40, z=1060.89] died, message: 'Unemployed was slain by Zombie'
+[19Dec2024 00:26:11.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 has made the advancement [Monster Hunter]
+[19Dec2024 00:26:12.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Creative Mode]
+[19Dec2024 00:26:29.037] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Dec2024 00:26:29.060] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Dec2024 00:26:29.278] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[19Dec2024 00:26:29.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <B3njaxx_11> aa
+[19Dec2024 00:26:39.487] [Worker-Main-10/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-10 shutdown
+[19Dec2024 00:27:00.301] [Server thread/INFO] [com.cosmicdan.sleepingoverhaul.SleepingOverhaul/]: Timelapse finished. Average TPS = 82.18254330585196; total time = 114.12399303699999 seconds; total ticks = 9379
+[19Dec2024 00:27:06.303] [Worker-Main-11/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-55
+[19Dec2024 00:27:19.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Survival Mode]
+[19Dec2024 00:28:32.510] [IO-Worker-54/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-56
