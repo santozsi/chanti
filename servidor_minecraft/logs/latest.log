@@ -3206,3 +3206,89 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [19Dec2024 20:15:30.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: b3njaxx11 has made the advancement [Ozark Apparition]
 [19Dec2024 20:15:31.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: b3njaxx11 has completed the challenge [Fury of The Frost]
 [19Dec2024 20:16:54.489] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fluids/capability/IFluidHandler$FluidAction
+[19Dec2024 20:20:02.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: b3njaxx11 has completed the challenge [Metephor? Never heard of it!]
+[19Dec2024 20:21:17.328] [Server thread/INFO] [com.cosmicdan.sleepingoverhaul.SleepingOverhaul/]: Timelapse finished. Average TPS = 152.34173586287304; total time = 17.027507172 seconds; total ticks = 2594
+[19Dec2024 20:22:00.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: b3njaxx11 has made the advancement [Wasp Business]
+[19Dec2024 20:24:45.294] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: duckensinvasion:duckenspanapticon_inside1
+[19Dec2024 20:24:45.299] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: duckensinvasion:duckenspanapticon_outside
+[19Dec2024 20:24:45.299] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: duckensinvasion:duckenspanapticon_outside
+[19Dec2024 20:24:45.300] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: duckensinvasion:duckenspanapticon_outside
+[19Dec2024 20:24:45.300] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: duckensinvasion:duckenspanapticon_outside
+[19Dec2024 20:24:53.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: b3njaxx11 has made the advancement [Amateur Archaeologist]
+[19Dec2024 20:25:08.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: b3njaxx11 has made the advancement [Close Quarters]
+[19Dec2024 20:26:57.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: b3njaxx11 has made the advancement [Light Up The World!]
+[19Dec2024 20:28:50.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: b3njaxx11 has made the advancement [What a Deal!]
+[19Dec2024 20:29:46.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: b3njaxx11 has made the advancement [Forever Dawn?]
+[19Dec2024 20:29:49.523] [Worker-Main-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/legacy/blue_skies/entities/passive/ShadeMonitorEntity$Biomes
+[19Dec2024 20:30:07.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <b3njaxx11> a
+[19Dec2024 20:30:27.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: b3njaxx11 has made the advancement [A New Dawn]
+[19Dec2024 20:33:22.357] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/legacy/blue_skies/entities/projectile/SpearEntity$Type
+[19Dec2024 20:34:11.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [b3njaxx11: Set own game mode to Spectator Mode]
+[19Dec2024 20:34:34.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [b3njaxx11: Set own game mode to Survival Mode]
+[19Dec2024 20:35:57.077] [Server thread/INFO] [com.cosmicdan.sleepingoverhaul.SleepingOverhaul/]: Timelapse finished. Average TPS = 163.3098117225144; total time = 44.675821514000006 seconds; total ticks = 7296
+[19Dec2024 20:38:10.855] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/animation/AnimationHandler
+[19Dec2024 20:38:30.568] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-10, -33], pos: BlockPos{x=-149, y=69, z=-528}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / eco:bushes_super_dense]
+[19Dec2024 20:38:37.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: b3njaxx11 has made the advancement [Who You Gonna Call?]
+[19Dec2024 20:39:03.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [b3njaxx11: Set own game mode to Creative Mode]
+[19Dec2024 20:39:20.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [b3njaxx11: Set own game mode to Survival Mode]
+[19Dec2024 20:39:21.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <b3njaxx11> aa
+[19Dec2024 20:39:30.738] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-33 absolute--50 absolute]
+[19Dec2024 20:40:05.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <b3njaxx11> a
+[19Dec2024 20:40:39.864] [pool-7-thread-1/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_swamp], ResourceKey[minecraft:worldgen/structure / blue_skies:village_calming_skies], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_sunflower_plains], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_badlands], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_wooded_badlands], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_birch], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_snowy_slopes], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_classic]] from pos BlockPos{x=43, y=73, z=-571}
+[19Dec2024 20:40:52.405] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/AbstractIllager$IllagerArmPose
+[19Dec2024 20:40:59.235] [Worker-Main-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/horse/Markings
+[19Dec2024 20:41:00.133] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:stun_armor'
+[19Dec2024 20:41:00.134] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:stun_armor'
+[19Dec2024 20:41:00.134] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'projectile_damage:generic'
+[19Dec2024 20:41:00.134] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:stun_armor'
+[19Dec2024 20:41:00.135] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:stun_armor'
+[19Dec2024 20:41:00.135] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:stun_armor'
+[19Dec2024 20:41:00.136] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:stun_armor'
+[19Dec2024 20:41:00.167] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:stun_armor'
+[19Dec2024 20:41:00.167] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:stun_armor'
+[19Dec2024 20:41:05.411] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'projectile_damage:generic'
+[19Dec2024 20:41:05.412] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:stun_armor'
+[19Dec2024 20:41:05.412] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'projectile_damage:generic'
+[19Dec2024 20:41:05.412] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:stun_armor'
+[19Dec2024 20:41:05.490] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'projectile_damage:generic'
+[19Dec2024 20:41:05.491] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:stun_armor'
+[19Dec2024 20:41:08.438] [Worker-Main-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/AdvancedPathNavigate$MovementType
+[19Dec2024 20:41:11.715] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[19Dec2024 20:41:11.716] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[19Dec2024 20:41:11.719] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[19Dec2024 20:41:11.721] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[19Dec2024 20:41:11.722] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[19Dec2024 20:41:11.724] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[19Dec2024 20:41:11.759] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[19Dec2024 20:41:11.759] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[19Dec2024 20:42:03.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: b3njaxx11 has made the advancement [This Must be a Sign!]
+[19Dec2024 20:42:45.468] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity duckensinvasion:aoe but it was marked as removed already
+[19Dec2024 20:42:48.077] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity duckensinvasion:aoe but it was marked as removed already
+[19Dec2024 20:42:56.069] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity duckensinvasion:aoe but it was marked as removed already
+[19Dec2024 20:42:56.367] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity duckensinvasion:aoe but it was marked as removed already
+[19Dec2024 20:43:00.068] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity duckensinvasion:aoe but it was marked as removed already
+[19Dec2024 20:43:06.275] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity duckensinvasion:aoe but it was marked as removed already
+[19Dec2024 20:43:07.567] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity duckensinvasion:aoe but it was marked as removed already
+[19Dec2024 20:43:09.613] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity duckensinvasion:aoe but it was marked as removed already
+[19Dec2024 20:43:15.219] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity duckensinvasion:aoe but it was marked as removed already
+[19Dec2024 20:43:15.920] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity duckensinvasion:aoe but it was marked as removed already
+[19Dec2024 20:43:21.524] [pool-7-thread-2/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_oak], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_mushroom_fields], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_beach], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_savanna_plateau], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_sparse_jungle], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga]] from pos BlockPos{x=27, y=73, z=-795}
+[19Dec2024 20:43:21.739] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=27, y=73, z=-795} but found not block entity block Block{minecraft:spruce_fence}[east=true,north=false,south=false,waterlogged=false,west=true] at location
+[19Dec2024 20:43:21.739] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=true,north=false,south=false,waterlogged=false,west=true] but failed at location BlockPos{x=27, y=73, z=-795}
+[19Dec2024 20:43:27.323] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity duckensinvasion:aoe but it was marked as removed already
+[19Dec2024 20:43:39.521] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity duckensinvasion:aoe but it was marked as removed already
+[19Dec2024 20:43:41.820] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity duckensinvasion:aoe but it was marked as removed already
+[19Dec2024 20:43:46.624] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity duckensinvasion:aoe but it was marked as removed already
+[19Dec2024 20:43:48.966] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity duckensinvasion:aoe but it was marked as removed already
+[19Dec2024 20:43:53.818] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity duckensinvasion:aoe but it was marked as removed already
+[19Dec2024 20:43:58.063] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity duckensinvasion:aoe but it was marked as removed already
+[19Dec2024 20:44:02.762] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity duckensinvasion:aoe but it was marked as removed already
+[19Dec2024 20:44:02.964] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity duckensinvasion:aoe but it was marked as removed already
+[19Dec2024 20:44:04.659] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity duckensinvasion:aoe but it was marked as removed already
+[19Dec2024 20:44:11.362] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity duckensinvasion:aoe but it was marked as removed already
+[19Dec2024 20:44:14.060] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity duckensinvasion:aoe but it was marked as removed already
+[19Dec2024 20:44:25.812] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity duckensinvasion:aoe but it was marked as removed already
+[19Dec2024 20:44:29.210] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity duckensinvasion:aoe but it was marked as removed already
+[19Dec2024 20:44:31.009] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity duckensinvasion:aoe but it was marked as removed already
+[19Dec2024 20:46:33.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [b3njaxx11: Set own game mode to Spectator Mode]
+[19Dec2024 20:46:58.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [b3njaxx11: Set own game mode to Survival Mode]
