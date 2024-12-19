@@ -50,3 +50,14 @@
 [19Dec2024 00:26:29.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <B3njaxx_11> aa
 [19Dec2024 00:27:00.301] [Server thread/INFO] [com.cosmicdan.sleepingoverhaul.SleepingOverhaul/]: Timelapse finished. Average TPS = 82.18254330585196; total time = 114.12399303699999 seconds; total ticks = 9379
 [19Dec2024 00:27:19.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Survival Mode]
+[19Dec2024 00:29:12.156] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: duckensinvasion:duckenspanapticon_outside
+[19Dec2024 00:29:12.162] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: duckensinvasion:duckenspanapticon_outside
+[19Dec2024 00:29:12.163] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: duckensinvasion:duckenspanapticon_outside
+[19Dec2024 00:29:12.163] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: duckensinvasion:duckenspanapticon_inside1
+[19Dec2024 00:29:12.163] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: duckensinvasion:duckenspanapticon_outside
+[19Dec2024 00:30:57.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 has made the advancement [Overtrained?]
+[19Dec2024 00:31:11.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set the time to 1000]
+[19Dec2024 00:31:27.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set the time to 1000]
+[19Dec2024 00:34:10.238] [Server thread/INFO] [com.cosmicdan.sleepingoverhaul.SleepingOverhaul/]: Timelapse finished. Average TPS = 162.83388636112142; total time = 138.21447429000003 seconds; total ticks = 22506
+[19Dec2024 00:34:21.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Spectator Mode]
+[19Dec2024 00:34:26.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Survival Mode]

@@ -1481,6 +1481,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_beef": "2024-12-19 00:29:03 +0000",
       "mutton": "2024-12-17 22:05:25 +0000",
       "bread": "2024-12-17 21:25:36 +0000"
     },
@@ -2724,6 +2725,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_abandoned_temple": {
+    "criteria": {
+      "location0": "2024-12-19 00:27:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2024-12-19 00:13:10 +0000"
@@ -2745,6 +2752,12 @@
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_gold_ingot": "2024-12-18 23:58:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2024-12-19 00:29:05 +0000"
     },
     "done": true
   },
@@ -2992,6 +3005,12 @@
   "minecraft:recipes/decorations/polished_deepslate_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-19 00:13:08 +0000"
+    },
+    "done": true
+  },
+  "the_body_boosts:overtrained": {
+    "criteria": {
+      "overtrained_0": "2024-12-19 00:30:57 +0000"
     },
     "done": true
   },

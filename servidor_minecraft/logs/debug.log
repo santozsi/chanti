@@ -12905,3 +12905,37 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [19Dec2024 00:27:06.303] [Worker-Main-11/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-55
 [19Dec2024 00:27:19.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Survival Mode]
 [19Dec2024 00:28:32.510] [IO-Worker-54/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-56
+[19Dec2024 00:29:09.261] [IO-Worker-52/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-57
+[19Dec2024 00:29:12.156] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: duckensinvasion:duckenspanapticon_outside
+[19Dec2024 00:29:12.162] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: duckensinvasion:duckenspanapticon_outside
+[19Dec2024 00:29:12.163] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: duckensinvasion:duckenspanapticon_outside
+[19Dec2024 00:29:12.163] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: duckensinvasion:duckenspanapticon_inside1
+[19Dec2024 00:29:12.163] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: duckensinvasion:duckenspanapticon_outside
+[19Dec2024 00:29:12.941] [Worker-Main-2/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:skeletonshieldboss at BlockPos{x=922, y=37, z=940} at Chest with:minecraft:chests/simple_dungeon
+[19Dec2024 00:29:12.955] [Worker-Main-11/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombietoxicboss at BlockPos{x=928, y=7, z=1069} at Chest with:minecraft:chests/simple_dungeon
+[19Dec2024 00:29:13.159] [Worker-Main-55/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:bunker/bunker_enterance_1
+[19Dec2024 00:29:47.224] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Dec2024 00:29:47.246] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Dec2024 00:30:57.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 has made the advancement [Overtrained?]
+[19Dec2024 00:31:11.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set the time to 1000]
+[19Dec2024 00:31:27.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set the time to 1000]
+[19Dec2024 00:32:16.971] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Dec2024 00:32:16.996] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Dec2024 00:32:52.855] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Dec2024 00:32:52.883] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Dec2024 00:32:53.048] [IO-Worker-54/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-58
+[19Dec2024 00:33:29.189] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Dec2024 00:33:29.211] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Dec2024 00:34:04.498] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Dec2024 00:34:04.522] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Dec2024 00:34:05.907] [Worker-Main-2/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-2 shutdown
+[19Dec2024 00:34:10.238] [Server thread/INFO] [com.cosmicdan.sleepingoverhaul.SleepingOverhaul/]: Timelapse finished. Average TPS = 162.83388636112142; total time = 138.21447429000003 seconds; total ticks = 22506
+[19Dec2024 00:34:10.255] [Worker-Main-55/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-59
+[19Dec2024 00:34:21.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Spectator Mode]
+[19Dec2024 00:34:23.519] [IO-Worker-54/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-60
+[19Dec2024 00:34:23.546] [IO-Worker-54/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-61
+[19Dec2024 00:34:26.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Survival Mode]
+[19Dec2024 00:34:29.228] [Worker-Main-55/DEBUG] [ModernFix/]: Structure alexscaves:abyssal_ruins_0 is being run through DFU (hash b7b8f5bc5bbf0a2442dc025f1d4784418e019d8719999e061de8f7804ee89d00), this will cause launch time delays
+[19Dec2024 00:38:19.952] [IO-Worker-60/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-62
+[19Dec2024 00:38:19.967] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Dec2024 00:38:19.986] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
