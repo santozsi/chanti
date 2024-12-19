@@ -12335,3 +12335,212 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [18Dec2024 23:47:36.135] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting fuzs/puzzleslib/api/event/v1/core/EventResult
 [18Dec2024 23:47:36.184] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/github/edwinmindcraft/apoli/common/power/configuration/ActionOnItemUseConfiguration$PriorityPhase
 [18Dec2024 23:47:42.783] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedbackpacks/common/gui/BackpackContext$ContextType
+[18Dec2024 23:48:23.244] [IO-Worker-16/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-19
+[18Dec2024 23:48:23.250] [IO-Worker-13/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-20
+[18Dec2024 23:48:23.250] [IO-Worker-18/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-21
+[18Dec2024 23:48:31.182] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/horse/Markings
+[18Dec2024 23:48:35.278] [Netty Epoll Server IO #2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/bettercombat/logic/AnimatedHand
+[18Dec2024 23:48:39.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 was slain by Sprinter
+[18Dec2024 23:48:40.696] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[18Dec2024 23:48:40.697] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 4 is dual wielding: false
+[18Dec2024 23:48:40.697] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[18Dec2024 23:48:40.697] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[18Dec2024 23:48:40.697] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 1 | client: 1
+[18Dec2024 23:48:41.592] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[18Dec2024 23:48:41.594] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 5 is dual wielding: false
+[18Dec2024 23:48:41.595] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[18Dec2024 23:48:41.595] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[18Dec2024 23:48:41.596] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 1 | client: 1
+[18Dec2024 23:48:42.898] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[18Dec2024 23:48:42.898] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 6 is dual wielding: false
+[18Dec2024 23:48:42.898] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[18Dec2024 23:48:42.898] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[18Dec2024 23:48:42.899] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 1 | client: 1
+[18Dec2024 23:48:45.156] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tictim/paraglider/api/vessel/VesselContainer$SetResult
+[18Dec2024 23:49:02.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made b3njaxx11 a server operator
+[18Dec2024 23:49:17.127] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/AbstractIllager$IllagerArmPose
+[18Dec2024 23:49:40.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[18Dec2024 23:49:40.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: b3njaxx_11<--[HERE]
+[18Dec2024 23:49:58.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[18Dec2024 23:49:58.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11<--[HERE]
+[18Dec2024 23:50:07.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made B3njaxx_11 a server operator
+[18Dec2024 23:50:12.033] [Server thread/DEBUG] [mixin/]: Generating mapped inner class net/minecraft/world/level/chunk/storage/SectionStorage$Anonymous$8f7c2ca6858f4f2f9e660bd44ce37e2f (originally me/jellysquid/mods/lithium/mixin/ai/poi/SerializingRegionBasedStorageMixin$1)
+[18Dec2024 23:50:13.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Spectator Mode]
+[18Dec2024 23:50:17.057] [IO-Worker-18/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-22
+[18Dec2024 23:50:17.057] [IO-Worker-15/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-23
+[18Dec2024 23:50:17.544] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: B3njaxx_11 moved too quickly! -4.566293624633287,0.0,9.42599617640364
+[18Dec2024 23:50:32.135] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Dec2024 23:50:32.267] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Dec2024 23:50:55.557] [IO-Worker-22/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-24
+[18Dec2024 23:51:35.080] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boh:herobrine but it was marked as removed already
+[18Dec2024 23:51:41.662] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/town_centers/forest_meeting_point_2
+[18Dec2024 23:51:41.664] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/straight_06
+[18Dec2024 23:51:41.665] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/straight_04
+[18Dec2024 23:51:41.666] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/crossroad_05
+[18Dec2024 23:51:41.667] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_medium_house_2
+[18Dec2024 23:51:41.668] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_small_house_2
+[18Dec2024 23:51:41.669] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/straight_05
+[18Dec2024 23:51:41.669] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_small_house_7
+[18Dec2024 23:51:41.670] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/terminators/terminator_02
+[18Dec2024 23:51:41.671] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/crossroad_02
+[18Dec2024 23:51:41.673] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_animal_pen_1
+[18Dec2024 23:51:41.675] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_weaponsmith_1
+[18Dec2024 23:51:41.675] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_small_house_3
+[18Dec2024 23:51:41.676] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/straight_02
+[18Dec2024 23:51:41.676] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/crossroad_06
+[18Dec2024 23:51:41.677] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_small_house_4
+[18Dec2024 23:51:41.678] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/corner_02
+[18Dec2024 23:51:41.679] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/corner_01
+[18Dec2024 23:51:41.679] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/crossroad_04
+[18Dec2024 23:51:41.680] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/crossroad_03
+[18Dec2024 23:51:41.681] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/straight_03
+[18Dec2024 23:51:41.681] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/corner_03
+[18Dec2024 23:51:41.682] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/turn_01
+[18Dec2024 23:51:41.683] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/straight_01
+[18Dec2024 23:51:41.684] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_small_house_1
+[18Dec2024 23:51:41.684] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/terminators/terminator_01
+[18Dec2024 23:51:41.685] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_small_farm_1
+[18Dec2024 23:51:41.685] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_mason_1
+[18Dec2024 23:51:41.686] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_animal_pen_3
+[18Dec2024 23:51:41.686] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/terminators/terminator_04
+[18Dec2024 23:51:41.687] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/terminators/terminator_03
+[18Dec2024 23:51:58.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Creative Mode]
+[18Dec2024 23:52:01.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Spectator Mode]
+[18Dec2024 23:52:14.428] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boh:herobrine but it was marked as removed already
+[18Dec2024 23:52:42.978] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boh:herobrine but it was marked as removed already
+[18Dec2024 23:52:45.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 has made the advancement [Quite the Renovation]
+[18Dec2024 23:53:21.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Survival Mode]
+[18Dec2024 23:55:13.831] [IO-Worker-18/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-25
+[18Dec2024 23:55:32.126] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Dec2024 23:55:32.148] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Dec2024 23:55:45.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Spectator Mode]
+[18Dec2024 23:55:55.597] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:mangrove_witch_hut/mangrove_witch_hut_2
+[18Dec2024 23:55:55.632] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:ships/wreckage_ocean/wreckage_1
+[18Dec2024 23:55:55.637] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:other/desert_temple_mimic/pyramid_main
+[18Dec2024 23:55:58.374] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:badlands_pyramid/whole
+[18Dec2024 23:55:59.692] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/mushroom_fields_fantasy/town_centers/mushroom_meeting_point_1
+[18Dec2024 23:55:59.710] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/grove_villager_outpost/town_centers/grove_meeting_point_1
+[18Dec2024 23:55:59.723] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/sparse_jungle_polynesian/town_centers/sparse_jungle_meeting_point_1
+[18Dec2024 23:55:59.761] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/swedish/town_centers/swedish_meeting_point_1
+[18Dec2024 23:55:59.766] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/meadow_swiss/town_centers/meadow_meeting_point_1
+[18Dec2024 23:55:59.773] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/iberian/town_centers/iberian_meeting_point_1
+[18Dec2024 23:55:59.791] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/town_centers/snowy_taiga_meeting_point_1
+[18Dec2024 23:55:59.800] [Worker-Main-2/DEBUG] [ModernFix/]: Structure kaisyn:village/snowy_taiga_viking/streets/straight_03 is being run through DFU (hash 75fdaa68698ae16660ee7e23655f5b5fa49d7be9bef2f39473c6de9ca76c2419), this will cause launch time delays
+[18Dec2024 23:55:59.971] [Worker-Main-2/DEBUG] [ModernFix/]: Structure kaisyn:village/snowy_taiga_viking/houses/snowy_taiga_armorer_1 is being run through DFU (hash 1b466cd6a3ad4bbe84ebec133badb20c15a7720a8a7de53e03415b46d2783e15), this will cause launch time delays
+[18Dec2024 23:56:00.203] [Worker-Main-2/DEBUG] [ModernFix/]: Structure kaisyn:village/snowy_taiga_viking/houses/snowy_taiga_butcher_1 is being run through DFU (hash 2d0b9c7df4ee55bd8de6ff510c505623b8377d3570663a2e76d805777f2786f4), this will cause launch time delays
+[18Dec2024 23:56:00.214] [Worker-Main-2/DEBUG] [ModernFix/]: Structure kaisyn:village/snowy_taiga_viking/houses/snowy_taiga_cartographer_1 is being run through DFU (hash 1317f96d7b2b576c7f0947c7eee664439e0e899a1546ff7a2c5914a969e703ac), this will cause launch time delays
+[18Dec2024 23:56:00.224] [Worker-Main-2/DEBUG] [ModernFix/]: Structure kaisyn:village/snowy_taiga_viking/houses/snowy_taiga_fisher_1 is being run through DFU (hash 36154f4e515332e6e985b3b7b813111b11e8062652da59fb59b1870f06f0aed0), this will cause launch time delays
+[18Dec2024 23:56:00.240] [Worker-Main-2/DEBUG] [ModernFix/]: Structure kaisyn:village/snowy_taiga_viking/houses/snowy_taiga_fletcher_1 is being run through DFU (hash 61f64acd7952d00aa635c4b21613de5b8bea7b0f96528e29cd95cdd1ac99c402), this will cause launch time delays
+[18Dec2024 23:56:00.252] [Worker-Main-2/DEBUG] [ModernFix/]: Structure kaisyn:village/snowy_taiga_viking/houses/snowy_taiga_leatherworker_1 is being run through DFU (hash 067a44ad5af8d7b9e47ee76e8c028ec2143b62c309a9a55da8aab41c458207d2), this will cause launch time delays
+[18Dec2024 23:56:00.264] [Worker-Main-2/DEBUG] [ModernFix/]: Structure kaisyn:village/snowy_taiga_viking/houses/snowy_taiga_library_1 is being run through DFU (hash 9c7196387df135312351ab40c1bd625292be1a7e32dcf95c548efd5838b7660e), this will cause launch time delays
+[18Dec2024 23:56:00.274] [Worker-Main-2/DEBUG] [ModernFix/]: Structure kaisyn:village/snowy_taiga_viking/houses/snowy_taiga_mason_1 is being run through DFU (hash 80e087ad7a4eacc999231d3291a07b313573c1008ed0685b71978f418c12319e), this will cause launch time delays
+[18Dec2024 23:56:00.279] [Worker-Main-2/DEBUG] [ModernFix/]: Structure kaisyn:village/snowy_taiga_viking/houses/snowy_taiga_shepherd_1 is being run through DFU (hash 66f5853848c1f88c170ff9089d8fbc97587d6920958e8407967467175ac20b98), this will cause launch time delays
+[18Dec2024 23:56:00.286] [Worker-Main-2/DEBUG] [ModernFix/]: Structure kaisyn:village/snowy_taiga_viking/houses/snowy_taiga_small_farm_1 is being run through DFU (hash 85312ec4b71d58929c48579685510ecf332eaa3b1daac75043897b688d5378cb), this will cause launch time delays
+[18Dec2024 23:56:00.290] [Worker-Main-2/DEBUG] [ModernFix/]: Structure kaisyn:village/snowy_taiga_viking/houses/snowy_taiga_toolsmith_and_weaponsmith_1 is being run through DFU (hash b038e57362547d85e0dff96bd5526014ab5bad3685427c7fc332c99e984ae077), this will cause launch time delays
+[18Dec2024 23:56:00.299] [Worker-Main-2/DEBUG] [ModernFix/]: Structure kaisyn:village/snowy_taiga_viking/houses/snowy_taiga_temple_1 is being run through DFU (hash d31d7af3442e0e6cae51e1767261040bbca5edcdd6cb4da54c6a1bbddd3dfdb1), this will cause launch time delays
+[18Dec2024 23:56:00.308] [Worker-Main-2/DEBUG] [ModernFix/]: Structure kaisyn:village/snowy_taiga_viking/houses/snowy_taiga_small_house_1 is being run through DFU (hash 9a11f9cf46f65aea84d724d38b49a7de5d98dcf7522c1e0b39edd0c08aa366e4), this will cause launch time delays
+[18Dec2024 23:56:00.314] [Worker-Main-2/DEBUG] [ModernFix/]: Structure kaisyn:village/snowy_taiga_viking/houses/snowy_taiga_small_house_2 is being run through DFU (hash 09f138ea948059be3f656ecb95ac553d3062c6e793ed0df4fc75e34bbd4549a9), this will cause launch time delays
+[18Dec2024 23:56:00.320] [Worker-Main-2/DEBUG] [ModernFix/]: Structure kaisyn:village/snowy_taiga_viking/houses/snowy_taiga_small_house_3 is being run through DFU (hash ad61237a0d6afd4b648102bce4deed74837a38218b30a45dc7994765701daac2), this will cause launch time delays
+[18Dec2024 23:56:00.326] [Worker-Main-2/DEBUG] [ModernFix/]: Structure kaisyn:village/snowy_taiga_viking/houses/snowy_taiga_small_house_4 is being run through DFU (hash 65498281eb2ba2bb19f2a9a7b8c4417ea837e812b8417192e76a872addffe55b), this will cause launch time delays
+[18Dec2024 23:56:00.339] [Worker-Main-2/DEBUG] [ModernFix/]: Structure kaisyn:village/snowy_taiga_viking/houses/snowy_taiga_small_house_5 is being run through DFU (hash cb7de76925864c8fe9055df486b83224d8f59227dec72db108425d32a5d31fd1), this will cause launch time delays
+[18Dec2024 23:56:00.347] [Worker-Main-2/DEBUG] [ModernFix/]: Structure kaisyn:village/snowy_taiga_viking/terminators/terminator_01 is being run through DFU (hash ab221a2e009769dfafec9654f8438547f93e8a59ca3220b73c4cf1cefa76df29), this will cause launch time delays
+[18Dec2024 23:56:00.349] [Worker-Main-2/DEBUG] [ModernFix/]: Structure kaisyn:village/snowy_taiga_viking/terminators/terminator_02 is being run through DFU (hash 66e890eb9d1d9ee10ef622a600576ddef845198639b9c3f636f8e9f097781ad8), this will cause launch time delays
+[18Dec2024 23:56:00.351] [Worker-Main-2/DEBUG] [ModernFix/]: Structure kaisyn:village/snowy_taiga_viking/terminators/terminator_03 is being run through DFU (hash 71e4434ac13c4a6b43de4c7136c5143457e030cbc28de95c8dbe7ad45ba4361e), this will cause launch time delays
+[18Dec2024 23:56:00.352] [Worker-Main-2/DEBUG] [ModernFix/]: Structure kaisyn:village/snowy_taiga_viking/terminators/terminator_04 is being run through DFU (hash 6a8ea3251241d45615752e2904d9b4e3592c576cf7e266fb2342f3fb5415c558), this will cause launch time delays
+[18Dec2024 23:56:00.361] [Worker-Main-2/DEBUG] [ModernFix/]: Structure kaisyn:village/snowy_taiga_viking/streets/straight_06 is being run through DFU (hash 3d0e481b81ff0560c6fe4b737c665ed5f107e3ea803f9ee52070d9c0e01561db), this will cause launch time delays
+[18Dec2024 23:56:00.383] [Worker-Main-2/DEBUG] [ModernFix/]: Structure kaisyn:village/snowy_taiga_viking/streets/corner_02 is being run through DFU (hash fb2ef20fa6006051661ebd5d65f9d08cce41d9501ab22190cb214ef7a299cef6), this will cause launch time delays
+[18Dec2024 23:56:00.395] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/modded/waystones/waystone_default
+[18Dec2024 23:56:00.397] [Worker-Main-2/DEBUG] [ModernFix/]: Structure kaisyn:village/snowy_taiga_viking/streets/corner_03 is being run through DFU (hash 987d799aa447cfdd81bc4beb12904cad47b1cdd274972e2f14cf34bfa05f7ab9), this will cause launch time delays
+[18Dec2024 23:56:00.452] [Worker-Main-2/DEBUG] [ModernFix/]: Structure kaisyn:village/snowy_taiga_viking/streets/straight_04 is being run through DFU (hash 8c3966b7e5e3955561cab40974c8f2c4d97bbc05f5ce7af8b40a188a5ee37189), this will cause launch time delays
+[18Dec2024 23:56:00.462] [Worker-Main-2/DEBUG] [ModernFix/]: Structure kaisyn:village/snowy_taiga_viking/streets/crossroad_05 is being run through DFU (hash d9dff8acd9597fac6a52a70cc042fece0869215a56b42fb6e8b3b3d64a1497a5), this will cause launch time delays
+[18Dec2024 23:56:00.465] [Worker-Main-2/DEBUG] [ModernFix/]: Structure kaisyn:village/snowy_taiga_viking/streets/turn_01 is being run through DFU (hash ff9263e8cb5b99d8b2933a964867944a24bddaaf18aae0730ef39be667c4bbeb), this will cause launch time delays
+[18Dec2024 23:56:00.469] [Worker-Main-2/DEBUG] [ModernFix/]: Structure kaisyn:village/snowy_taiga_viking/streets/straight_02 is being run through DFU (hash 174ad1a14bf48e4815307313386cab69243ee3cb988e819ed6fedd3ab5b542ca), this will cause launch time delays
+[18Dec2024 23:56:00.474] [Worker-Main-2/DEBUG] [ModernFix/]: Structure kaisyn:village/snowy_taiga_viking/streets/crossroad_06 is being run through DFU (hash 75e7611a8b3fc773591ba49555ad4ef65c1bd18b39f44eaa45124b0013b46605), this will cause launch time delays
+[18Dec2024 23:56:00.477] [Worker-Main-2/DEBUG] [ModernFix/]: Structure kaisyn:village/snowy_taiga_viking/streets/straight_01 is being run through DFU (hash baf170cff6138788562bba5230459bd7768aca184e5a6dafb2746696afc78980), this will cause launch time delays
+[18Dec2024 23:56:00.483] [Worker-Main-2/DEBUG] [ModernFix/]: Structure kaisyn:village/snowy_taiga_viking/snowy_taiga_drakkar_1 is being run through DFU (hash 307387d57d93312ecda10ad14c93782c3ec28ba0a7bad810015aa992cf772f1a), this will cause launch time delays
+[18Dec2024 23:56:00.485] [Worker-Main-2/DEBUG] [ModernFix/]: Structure kaisyn:village/snowy_taiga_viking/snowy_taiga_wood_pile_1 is being run through DFU (hash e49eb8ba4e772efd2fffe7e5ff4322a036becc392a6b43569791178bbde9533c), this will cause launch time delays
+[18Dec2024 23:56:00.487] [Worker-Main-2/DEBUG] [ModernFix/]: Structure kaisyn:village/snowy_taiga_viking/streets/crossroad_02 is being run through DFU (hash 617124a88c57068d361b78c58d85b60432b71baf1cb322266a9b92ca5bc40c02), this will cause launch time delays
+[18Dec2024 23:56:00.494] [Worker-Main-2/DEBUG] [ModernFix/]: Structure kaisyn:village/snowy_taiga_viking/streets/corner_01 is being run through DFU (hash c7325a40c7fa7df5cfeff31d6e0aa73b633a4ce5fbf3d79c1849daaf97a0a9c3), this will cause launch time delays
+[18Dec2024 23:56:00.500] [Worker-Main-2/DEBUG] [ModernFix/]: Structure kaisyn:village/snowy_taiga_viking/streets/crossroad_03 is being run through DFU (hash b6f818b5e60e084c7981ddac011769b9288b67b0d908f92fb7224377fcc8d307), this will cause launch time delays
+[18Dec2024 23:56:00.506] [Worker-Main-2/DEBUG] [ModernFix/]: Structure kaisyn:village/snowy_taiga_viking/streets/crossroad_04 is being run through DFU (hash 44c9a3788ec85f41af34bf14a1032cf0e08129235993409cac59bfa3f63f6f74), this will cause launch time delays
+[18Dec2024 23:56:00.510] [Worker-Main-2/DEBUG] [ModernFix/]: Structure kaisyn:village/snowy_taiga_viking/streets/crossroad_01 is being run through DFU (hash 74a7999dfbe8bfc9c9e14a2dc10420af3ce7514353c415ec12e8d5ec4d13a062), this will cause launch time delays
+[18Dec2024 23:56:00.519] [Worker-Main-2/DEBUG] [ModernFix/]: Structure kaisyn:village/snowy_taiga_viking/streets/straight_05 is being run through DFU (hash e7e5af3a634d1265d908dc5f86485e83d44d4a02bcdfacdc2cde49f4447543e9), this will cause launch time delays
+[18Dec2024 23:56:03.816] [IO-Worker-18/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-26
+[18Dec2024 23:56:04.060] [Worker-Main-11/DEBUG] [ModernFix/]: Structure nova_structures:wild_ruin/wild_ruin_9b is being run through DFU (hash ca2746a3406cfc261673803717d4dda9595e0b75788c3becd2ce2226ff14cbf2), this will cause launch time delays
+[18Dec2024 23:56:11.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Creative Mode]
+[18Dec2024 23:56:27.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 has made the advancement [Hello ?]
+[18Dec2024 23:57:07.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Survival Mode]
+[18Dec2024 23:57:18.395] [Server thread/DEBUG] [mixin/]: Mixing PiglinAiMixin from relics.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[18Dec2024 23:57:18.396] [Server thread/DEBUG] [mixin/]: relics.mixins.json:PiglinAiMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
+[18Dec2024 23:57:18.407] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from curios.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[18Dec2024 23:57:51.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 has made the advancement [Solid shovel !]
+[18Dec2024 23:58:02.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 has made the advancement [Disme A Dozen]
+[18Dec2024 23:59:49.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Spectator Mode]
+[18Dec2024 23:59:52.583] [IO-Worker-18/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-28
+[18Dec2024 23:59:52.583] [IO-Worker-26/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-27
+[18Dec2024 23:59:53.519] [Worker-Main-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/AdvancedPathNavigate$MovementType
+[18Dec2024 23:59:55.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Survival Mode]
+[19Dec2024 00:00:19.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 has made the advancement [I think we have a problem ?!]
+[19Dec2024 00:00:24.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Creative Mode]
+[19Dec2024 00:00:32.123] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Dec2024 00:00:32.145] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Dec2024 00:00:38.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Spectator Mode]
+[19Dec2024 00:00:42.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Creative Mode]
+[19Dec2024 00:00:55.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Survival Mode]
+[19Dec2024 00:00:57.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 was slain by Infantryman of the legion
+[19Dec2024 00:00:59.075] [IO-Worker-27/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-29
+[19Dec2024 00:00:59.104] [IO-Worker-18/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-30
+[19Dec2024 00:00:59.105] [IO-Worker-26/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-31
+[19Dec2024 00:00:59.106] [IO-Worker-26/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-32
+[19Dec2024 00:01:05.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Spectator Mode]
+[19Dec2024 00:01:22.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Teleported B3njaxx_11 to -301.500000, -0.500000, 836.500000]
+[19Dec2024 00:01:25.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Creative Mode]
+[19Dec2024 00:01:56.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Survival Mode]
+[19Dec2024 00:02:24.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 has made the advancement [Perfect Size ?]
+[19Dec2024 00:03:18.081] [IO-Worker-27/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-33
+[19Dec2024 00:05:32.122] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Dec2024 00:05:32.157] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Dec2024 00:05:32.216] [IO-Worker-33/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-34
+[19Dec2024 00:05:32.250] [IO-Worker-31/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-35
+[19Dec2024 00:05:39.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Spectator Mode]
+[19Dec2024 00:05:42.921] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_0
+[19Dec2024 00:05:42.934] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_16
+[19Dec2024 00:05:42.935] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_10
+[19Dec2024 00:05:42.940] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_stairs_2
+[19Dec2024 00:05:42.941] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_5
+[19Dec2024 00:05:42.941] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_9
+[19Dec2024 00:05:42.942] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_14
+[19Dec2024 00:05:42.942] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_12
+[19Dec2024 00:05:42.943] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_4
+[19Dec2024 00:05:42.943] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_2
+[19Dec2024 00:05:42.944] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_13
+[19Dec2024 00:05:42.944] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_6
+[19Dec2024 00:05:42.944] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_0
+[19Dec2024 00:05:42.945] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_8
+[19Dec2024 00:05:42.945] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_17
+[19Dec2024 00:05:42.946] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_3
+[19Dec2024 00:05:42.946] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_11
+[19Dec2024 00:05:42.946] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_7
+[19Dec2024 00:05:42.947] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_15
+[19Dec2024 00:05:42.948] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_hallway_2
+[19Dec2024 00:05:42.951] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_room_3
+[19Dec2024 00:05:42.954] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_room_2
+[19Dec2024 00:05:42.956] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_stairs_1
+[19Dec2024 00:05:42.958] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_hallway_3
+[19Dec2024 00:05:42.961] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_stairs_0
+[19Dec2024 00:05:42.963] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_room_1
+[19Dec2024 00:05:42.965] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_hallway_4
+[19Dec2024 00:05:42.967] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_room_0
+[19Dec2024 00:05:42.970] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_hallway_0
+[19Dec2024 00:05:42.972] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_hallway_6
+[19Dec2024 00:05:42.973] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_hallway_5
+[19Dec2024 00:05:42.978] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_room_4
+[19Dec2024 00:05:42.979] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_terminator_0
+[19Dec2024 00:05:42.981] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_spawner_1
+[19Dec2024 00:05:42.984] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_spawner_0
+[19Dec2024 00:05:48.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 has made the advancement [Alex's Caves]
+[19Dec2024 00:06:02.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Survival Mode]
+[19Dec2024 00:06:03.061] [IO-Worker-33/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-36
+[19Dec2024 00:06:04.322] [Worker-Main-10/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zoglinboss at BlockPos{x=-340, y=80, z=1015} at Chest with:dungeons_enhanced:chests/stables
+[19Dec2024 00:06:53.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 has made the advancement [It Belongs in a Museum]
+[19Dec2024 00:06:58.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 has made the advancement [Once Upon a Cave]
