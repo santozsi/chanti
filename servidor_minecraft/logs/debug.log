@@ -12544,3 +12544,39 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [19Dec2024 00:06:04.322] [Worker-Main-10/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zoglinboss at BlockPos{x=-340, y=80, z=1015} at Chest with:dungeons_enhanced:chests/stables
 [19Dec2024 00:06:53.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 has made the advancement [It Belongs in a Museum]
 [19Dec2024 00:06:58.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 has made the advancement [Once Upon a Cave]
+[19Dec2024 00:08:35.435] [IO-Worker-36/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-37
+[19Dec2024 00:10:32.106] [IO-Worker-36/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-38
+[19Dec2024 00:10:32.115] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Dec2024 00:10:32.138] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Dec2024 00:12:25.132] [IO-Worker-36/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-39
+[19Dec2024 00:12:25.133] [IO-Worker-36/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-40
+[19Dec2024 00:13:10.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 has made the advancement [Diamonds!]
+[19Dec2024 00:13:47.879] [IO-Worker-39/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-41
+[19Dec2024 00:13:47.881] [IO-Worker-39/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-42
+[19Dec2024 00:13:47.894] [IO-Worker-39/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-43
+[19Dec2024 00:13:47.894] [IO-Worker-42/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-44
+[19Dec2024 00:14:24.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 tried to swim in lava
+[19Dec2024 00:14:41.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Creative Mode]
+[19Dec2024 00:15:01.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Teleported B3njaxx_11 to -317.500000, -43.500000, 786.500000]
+[19Dec2024 00:15:32.113] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Dec2024 00:15:32.132] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Dec2024 00:16:47.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 has made the advancement [Suit Up]
+[19Dec2024 00:16:57.235] [IO-Worker-36/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-45
+[19Dec2024 00:17:01.842] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mezz/jei/common/network/PacketIdClient
+[19Dec2024 00:17:51.393] [Netty Epoll Server IO #2/DEBUG] [mezz.jei.common.platform.Services/]: Loaded mezz.jei.forge.platform.PlatformHelper@10440b0b for service interface mezz.jei.common.platform.IPlatformHelper
+[19Dec2024 00:17:51.395] [Server thread/DEBUG] [mezz.jei.common.network.packets.PacketDeletePlayerItem/]: Player 'literal{B3njaxx_11} (1e2ff22d-2c9b-3ce9-9d6e-8df0fcdaea21)' tried to delete Item 'coal_block' but is currently holding a different ItemStack 'translation{key='chat.square_brackets', args=[empty[siblings=[translation{key='block.minecraft.air', args=[]}]]]}'.
+[19Dec2024 00:18:18.828] [IO-Worker-39/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-46
+[19Dec2024 00:18:28.393] [IO-Worker-45/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-47
+[19Dec2024 00:18:28.394] [IO-Worker-39/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-48
+[19Dec2024 00:18:31.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [B3njaxx_11: Set own game mode to Spectator Mode]
+[19Dec2024 00:18:32.500] [Worker-Main-10/DEBUG] [ModernFix/]: Structure kaisyn:outpost/towers/snowy_taiga/base_plate is being run through DFU (hash 76a3bbd60d98bbe842eb3633e39fefd6c607daf35da9eae0abcdba30a155310c), this will cause launch time delays
+[19Dec2024 00:18:32.835] [Worker-Main-10/DEBUG] [ModernFix/]: Structure kaisyn:outpost/camps/snowy_beach/base_plate is being run through DFU (hash efecd9053cdde1e653f974f85f54b218ecbccb5ebcabac51791131f1a00ee1ca), this will cause launch time delays
+[19Dec2024 00:18:32.901] [Worker-Main-10/DEBUG] [ModernFix/]: Structure kaisyn:outpost/camps/beach/base_plate is being run through DFU (hash 04f63caa92d93e3371a61edb0f1aa9f76e01e43290dd3787b8bebd76793fb993), this will cause launch time delays
+[19Dec2024 00:18:32.945] [Worker-Main-10/DEBUG] [ModernFix/]: Structure kaisyn:outpost/forts/badlands/base_plate is being run through DFU (hash a56be22e1763125b0c5db2f12728b5645216f29e2726239ce921cd903cb93c21), this will cause launch time delays
+[19Dec2024 00:18:32.982] [Worker-Main-10/DEBUG] [ModernFix/]: Structure kaisyn:outpost/forts/exclusives/mediterranean/base_plate is being run through DFU (hash 65ccd928c9ba94aaac2450eae5e52f39206179062f0c5fd804906560ad88386a), this will cause launch time delays
+[19Dec2024 00:18:33.031] [Worker-Main-10/DEBUG] [ModernFix/]: Structure kaisyn:outpost/towers/birch/base_plate is being run through DFU (hash 630514a255a56595578b1a3e9a24c7963f1ae59dbfbedc68975967801b37de00), this will cause launch time delays
+[19Dec2024 00:18:33.092] [Worker-Main-10/DEBUG] [ModernFix/]: Structure kaisyn:outpost/forts/grove/base_plate is being run through DFU (hash 8d58e65730b97353a91f7a16a6932a05206b18e0201f04d02ea0eac5c38777d4), this will cause launch time delays
+[19Dec2024 00:18:33.164] [Worker-Main-10/DEBUG] [ModernFix/]: Structure kaisyn:outpost/forts/old_growth_taiga/base_plate is being run through DFU (hash 4fab3ae3262ef924648080808305fb2e24b915799758bfbd9c081595b17fa577), this will cause launch time delays
+[19Dec2024 00:18:33.247] [Worker-Main-10/DEBUG] [ModernFix/]: Structure kaisyn:outpost/towers/exclusives/oriental/base_plate is being run through DFU (hash 6211e7c7a3df70dc70bead242994ac8a5600ba477ac3d19128b766f92f4ba880), this will cause launch time delays
+[19Dec2024 00:18:33.346] [Worker-Main-10/DEBUG] [ModernFix/]: Structure kaisyn:outpost/towers/snowy_slopes/base_plate is being run through DFU (hash 765af0ac54824938fd1ac1b78406fc88a1e1fd7999d8e58cda6e32dbc5f6a46f), this will cause launch time delays
+[19Dec2024 00:18:33.421] [Worker-Main-10/DEBUG] [ModernFix/]: Structure kaisyn:outpost/towers/mushroom_fields/base_plate is being run through DFU (hash b760d725d73ca7044be56ac0a402541b78066fadf793e5c09d1c5e3a497cd966), this will cause launch time delays
