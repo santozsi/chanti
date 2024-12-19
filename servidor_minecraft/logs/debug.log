@@ -12325,3 +12325,188 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [19Dec2024 19:46:06.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: b3njaxx11 has made the advancement [Tiny Proud Soul]
 [19Dec2024 19:46:06.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: b3njaxx11 has made the advancement [Slash Blade]
 [19Dec2024 19:46:28.159] [IO-Worker-20/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-23
+[19Dec2024 19:47:49.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: b3njaxx11 has made the advancement [Monster Hunter]
+[19Dec2024 19:47:49.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: b3njaxx11 has made the advancement [Acquire Ash]
+[19Dec2024 19:47:49.669] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Samuel the Pit Master'/1947, l='ServerLevel[world]', x=120.70, y=70.00, z=341.42] died: Samuel the Pit Master was slain by b3njaxx11
+[19Dec2024 19:47:53.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: b3njaxx11 has made the advancement [It Belongs in a Museum]
+[19Dec2024 19:47:58.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: b3njaxx11 has made the advancement [War Pigs]
+[19Dec2024 19:48:36.468] [IO-Worker-20/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-24
+[19Dec2024 19:48:36.468] [IO-Worker-23/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-25
+[19Dec2024 19:48:36.468] [IO-Worker-20/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-26
+[19Dec2024 19:48:41.058] [IO-Worker-24/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-27
+[19Dec2024 19:48:41.069] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Dec2024 19:48:41.095] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Dec2024 19:50:49.963] [IO-Worker-23/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-28
+[19Dec2024 19:51:07.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: b3njaxx11 was doomed to fall by Piglin Brute
+[19Dec2024 19:51:07.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: b3njaxx11 has completed the challenge [This is Bonfires]
+[19Dec2024 19:51:09.042] [IO-Worker-24/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-29
+[19Dec2024 19:51:09.068] [IO-Worker-24/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-30
+[19Dec2024 19:52:34.782] [IO-Worker-23/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-31
+[19Dec2024 19:53:18.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [b3njaxx11: Set own game mode to Creative Mode]
+[19Dec2024 19:53:21.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: b3njaxx11 has made the advancement [A Terrible Fortress]
+[19Dec2024 19:53:22.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [b3njaxx11: Set own game mode to Survival Mode]
+[19Dec2024 19:53:41.040] [IO-Worker-24/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-32
+[19Dec2024 19:53:41.040] [IO-Worker-31/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-33
+[19Dec2024 19:53:41.050] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Dec2024 19:53:41.072] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Dec2024 19:53:46.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <b3njaxx11> wa
+[19Dec2024 19:54:34.413] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mezz/jei/common/network/PacketIdClient
+[19Dec2024 19:54:35.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [b3njaxx11: Gave 1 [item.improvableskills.skills_book] to b3njaxx11]
+[19Dec2024 19:55:21.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: b3njaxx11 has made the advancement [Diamonds!]
+[19Dec2024 19:55:36.308] [IO-Worker-32/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-34
+[19Dec2024 19:55:36.866] [Worker-Main-1/DEBUG] [ModernFix/]: Structure hopo:mobs/piglin_crossbow is being run through DFU (hash 4ee4f49c913dd505e91bed9bc8fcef24211ff7b9380bb139c5fad261f5c3f932), this will cause launch time delays
+[19Dec2024 19:55:36.868] [Worker-Main-1/DEBUG] [ModernFix/]: Structure hopo:piglin_ruin/path/1 is being run through DFU (hash c63eace2a6228e319f8a65ea860531f0e7106a352e3137cc6d23a74f04efbda5), this will cause launch time delays
+[19Dec2024 19:55:36.894] [Worker-Main-1/DEBUG] [ModernFix/]: Structure hopo:piglin_ruin/path/3 is being run through DFU (hash 52f339a9bc2f97f8ddfeec991d0886302da98044527106fc2a5fa0b12aa2ca27), this will cause launch time delays
+[19Dec2024 19:55:36.905] [Worker-Main-1/DEBUG] [ModernFix/]: Structure hopo:piglin_ruin/path/2 is being run through DFU (hash 6f65eb717300af8b285861854c085eea95d33c3d68cf70d0ef6079924f4b07f9), this will cause launch time delays
+[19Dec2024 19:55:37.673] [Worker-Main-1/DEBUG] [ModernFix/]: Structure hopo:mobs/piglin_sword is being run through DFU (hash 2d3088b71a07273756f366336b36b56b6fda7f8bfdad1532e28a05f9a4a2b79e), this will cause launch time delays
+[19Dec2024 19:55:52.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: b3njaxx11 was blown up by Nether Pyromancer Revenant
+[19Dec2024 19:56:31.144] [Server thread/INFO] [io.github.apace100.origins.Origins/]: Player b3njaxx11 was randomly assigned the origin origins:feline for layer origins:origin
+[19Dec2024 19:57:46.561] [IO-Worker-34/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-35
+[19Dec2024 19:57:57.323] [Server thread/INFO] [io.github.apace100.origins.Origins/]: Player b3njaxx11 was randomly assigned the origin origins:blazeborn for layer origins:origin
+[19Dec2024 19:57:59.977] [Server thread/INFO] [io.github.apace100.origins.Origins/]: Player b3njaxx11 was randomly assigned the origin origins:blazeborn for layer origins:origin
+[19Dec2024 19:58:01.708] [Server thread/INFO] [io.github.apace100.origins.Origins/]: Player b3njaxx11 was randomly assigned the origin origins:elytrian for layer origins:origin
+[19Dec2024 19:58:07.763] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting top/theillusivec4/caelus/api/CaelusApi$TriState
+[19Dec2024 19:58:41.045] [IO-Worker-31/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-36
+[19Dec2024 19:58:41.052] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Dec2024 19:58:41.076] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Dec2024 19:58:49.908] [Server thread/INFO] [io.github.apace100.origins.Origins/]: Player b3njaxx11 was randomly assigned the origin origins:shulk for layer origins:origin
+[19Dec2024 19:58:59.957] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boh:herobrine but it was marked as removed already
+[19Dec2024 19:59:58.403] [IO-Worker-31/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-37
+[19Dec2024 19:59:58.404] [IO-Worker-35/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-38
+[19Dec2024 20:01:30.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: b3njaxx11 fell from a high place
+[19Dec2024 20:01:48.622] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/commands/SharedSuggestionProvider$ElementSuggestionType
+[19Dec2024 20:01:56.477] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/StructureCheckResult
+[19Dec2024 20:01:56.483] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:village_taiga took 13 ms
+[19Dec2024 20:01:59.109] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/taiga/town_centers/taiga_meeting_point_2
+[19Dec2024 20:01:59.111] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/taiga/streets/straight_03
+[19Dec2024 20:01:59.113] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/taiga/streets/corner_03
+[19Dec2024 20:01:59.114] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/taiga/streets/straight_06
+[19Dec2024 20:01:59.117] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/taiga/houses/taiga_small_house_5
+[19Dec2024 20:01:59.121] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/taiga/houses/taiga_small_farm_1
+[19Dec2024 20:01:59.122] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/taiga/streets/straight_05
+[19Dec2024 20:01:59.123] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:kakariko_village_goddess_statue
+[19Dec2024 20:01:59.125] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/taiga/houses/taiga_small_house_2
+[19Dec2024 20:01:59.126] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/taiga/streets/turn_01
+[19Dec2024 20:01:59.129] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:village/taiga_scriber_1
+[19Dec2024 20:01:59.130] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:taiga_village_horned_statue
+[19Dec2024 20:01:59.131] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/taiga/streets/straight_01
+[19Dec2024 20:01:59.139] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/taiga/houses/taiga_masons_house_1
+[19Dec2024 20:01:59.144] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/taiga/houses/taiga_small_house_4
+[19Dec2024 20:01:59.145] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/taiga/houses/taiga_weaponsmith_2
+[19Dec2024 20:01:59.146] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:horned_statue/no
+[19Dec2024 20:01:59.149] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/taiga/houses/taiga_fisher_cottage_1
+[19Dec2024 20:01:59.150] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/taiga/houses/taiga_large_farm_2
+[19Dec2024 20:01:59.152] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/taiga/houses/taiga_shepherds_house_1
+[19Dec2024 20:01:59.155] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/taiga/houses/taiga_cartographer_house_1
+[19Dec2024 20:01:59.157] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/taiga/houses/taiga_tool_smith_1
+[19Dec2024 20:01:59.159] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/taiga/streets/corner_01
+[19Dec2024 20:01:59.160] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/taiga/streets/crossroad_04
+[19Dec2024 20:01:59.165] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/taiga/houses/taiga_medium_house_1
+[19Dec2024 20:01:59.167] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/taiga/streets/straight_04
+[19Dec2024 20:01:59.168] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/terminators/terminator_02
+[19Dec2024 20:01:59.168] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/taiga/streets/corner_02
+[19Dec2024 20:01:59.169] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/taiga/streets/crossroad_03
+[19Dec2024 20:01:59.171] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/taiga/houses/taiga_small_house_3
+[19Dec2024 20:01:59.179] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/taiga/houses/taiga_butcher_shop_1
+[19Dec2024 20:01:59.183] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/taiga/houses/taiga_large_farm_1
+[19Dec2024 20:01:59.184] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/taiga/streets/straight_02
+[19Dec2024 20:01:59.184] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/terminators/terminator_04
+[19Dec2024 20:01:59.185] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/terminators/terminator_01
+[19Dec2024 20:01:59.187] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/terminators/terminator_03
+[19Dec2024 20:01:59.221] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/enums/EnumBestiaryPages
+[19Dec2024 20:01:59.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [b3njaxx11: Teleported b3njaxx11 to 96.500000, 71.000000, -255.500000]
+[19Dec2024 20:01:59.538] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_top
+[19Dec2024 20:01:59.541] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_bottom
+[19Dec2024 20:02:00.069] [IO-Worker-34/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-39
+[19Dec2024 20:02:00.752] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of seadwellers:aquamarine_crystal_gen
+[19Dec2024 20:02:00.754] [Worker-Main-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/world/IafWorldData$FeatureType
+[19Dec2024 20:02:00.756] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of seadwellers:sea_village
+[19Dec2024 20:02:00.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [b3njaxx11: Set own game mode to Spectator Mode]
+[19Dec2024 20:02:01.318] [Worker-Main-2/DEBUG] [mixin/]: Mixing DripstoneUtilsMixin from mixins.eco.json into net.minecraft.world.level.levelgen.feature.DripstoneUtils
+[19Dec2024 20:02:02.534] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[19Dec2024 20:02:04.385] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of supplementaries:way_sign
+[19Dec2024 20:02:04.577] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
+[19Dec2024 20:02:04.612] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_16
+[19Dec2024 20:02:04.659] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:undead_crypt/undead_crypt_stairs
+[19Dec2024 20:02:04.669] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:undead_crypt/undead_crypt_room_lock
+[19Dec2024 20:02:05.255] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:desert_shrine/whole
+[19Dec2024 20:02:05.755] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_7
+[19Dec2024 20:02:06.522] [Worker-Main-1/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombieboss at BlockPos{x=97, y=6, z=-374} at Chest with:minecraft:chests/simple_dungeon
+[19Dec2024 20:02:07.677] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of gnumus:traders_rest
+[19Dec2024 20:02:08.969] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4571ms or 91 ticks behind
+[19Dec2024 20:02:09.352] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:fishing_hut/fishing_hut_main
+[19Dec2024 20:02:09.371] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_1
+[19Dec2024 20:02:09.388] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:lighthouse/lighthouse_part_1
+[19Dec2024 20:02:09.395] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_1_roots
+[19Dec2024 20:02:09.402] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:wishing_well/wishing_well_0
+[19Dec2024 20:02:09.412] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_4
+[19Dec2024 20:02:11.386] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/town_centers/plains_meeting_point_3
+[19Dec2024 20:02:11.391] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/savanna/town_centers/savanna_meeting_point_3
+[19Dec2024 20:02:11.401] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/snowy/town_centers/snowy_meeting_point_1
+[19Dec2024 20:02:11.412] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/desert/town_centers/desert_meeting_point_3
+[19Dec2024 20:02:11.424] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/taiga/town_centers/taiga_meeting_point_1
+[19Dec2024 20:02:11.431] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_jungle/jungle_village_center3
+[19Dec2024 20:02:11.435] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_swamp/swamp_village_center3
+[19Dec2024 20:02:11.695] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of totw_modded:badlands/badlands_tower_bottom
+[19Dec2024 20:02:11.704] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of totw_modded:desert/desert_tower_bottom
+[19Dec2024 20:02:11.718] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of totw_modded:jungle/jungle_tower_bottom
+[19Dec2024 20:02:11.725] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of totw_modded:ocean_warm/ocean_warm_tower_bottom
+[19Dec2024 20:02:11.735] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of totw_modded:ice/ice_tower_bottom
+[19Dec2024 20:02:11.740] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of totw_modded:derelict/derelict_tower_bottom
+[19Dec2024 20:02:11.744] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of totw_modded:ocean/ocean_tower_bottom
+[19Dec2024 20:02:11.748] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of totw_modded:derelict_grass/derelict_grass_tower_bottom
+[19Dec2024 20:02:13.355] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: b3njaxx11 moved too quickly! -10.195284077390184,0.0,-1.2674926582384387
+[19Dec2024 20:02:23.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [b3njaxx11: Set own game mode to Survival Mode]
+[19Dec2024 20:02:27.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: b3njaxx11 has made the advancement [Isn't It Iron Pick]
+[19Dec2024 20:02:47.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: b3njaxx11 has made the advancement [Sweet Dreams]
+[19Dec2024 20:02:52.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <b3njaxx11> a
+[19Dec2024 20:02:58.384] [Server thread/DEBUG] [mixin/]: Generating mapped inner class net/minecraft/world/level/chunk/storage/SectionStorage$Anonymous$e1c3cf41782446e2880c94cfc4e93386 (originally me/jellysquid/mods/lithium/mixin/ai/poi/SerializingRegionBasedStorageMixin$1)
+[19Dec2024 20:03:01.570] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Dec2024 20:03:01.593] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Dec2024 20:03:10.117] [Server thread/INFO] [com.cosmicdan.sleepingoverhaul.SleepingOverhaul/]: Timelapse finished. Average TPS = 148.5907908388044; total time = 16.064252613 seconds; total ticks = 2387
+[19Dec2024 20:03:40.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: b3njaxx11 has made the advancement [Dungeon Now Loading]
+[19Dec2024 20:04:07.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: b3njaxx11 has made the advancement [Disme A Dozen]
+[19Dec2024 20:04:42.857] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/IronGolem$Crackiness
+[19Dec2024 20:04:55.017] [IO-Worker-35/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-40
+[19Dec2024 20:05:17.764] [Server thread/DEBUG] [mixin/]: Mixing HoldingPlayerMixin from moonlight-common.mixins.json into net.minecraft.world.level.saveddata.maps.MapItemSavedData$HoldingPlayer
+[19Dec2024 20:05:17.789] [Server thread/DEBUG] [mixin/]: Mixing MapDecorationMixin from alexscaves.mixins.json into net.minecraft.world.level.saveddata.maps.MapDecoration
+[19Dec2024 20:05:20.422] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/material/MapColor$Brightness
+[19Dec2024 20:06:05.367] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of luminousworld:shortacacia1
+[19Dec2024 20:06:46.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: b3njaxx11 has made the advancement [Suit Up]
+[19Dec2024 20:07:02.207] [IO-Worker-40/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-41
+[19Dec2024 20:07:02.218] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Dec2024 20:07:02.247] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Dec2024 20:08:02.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: b3njaxx11 has made the advancement [Overtrained?]
+[19Dec2024 20:09:17.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <b3njaxx11> y
+[19Dec2024 20:10:46.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: b3njaxx11 has made the advancement [First Blood]
+[19Dec2024 20:10:59.223] [IO-Worker-34/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-43
+[19Dec2024 20:10:59.223] [IO-Worker-41/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-42
+[19Dec2024 20:10:59.224] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:ships/wreckage_ocean/wreckage_1
+[19Dec2024 20:10:59.230] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:other/desert_temple_mimic/pyramid_main
+[19Dec2024 20:10:59.233] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:mangrove_witch_hut/mangrove_witch_hut_1
+[19Dec2024 20:12:02.202] [IO-Worker-43/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-44
+[19Dec2024 20:12:02.204] [IO-Worker-43/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-45
+[19Dec2024 20:12:02.212] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Dec2024 20:12:02.235] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Dec2024 20:12:44.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: b3njaxx11 has made the advancement [Barrel Booty]
+[19Dec2024 20:13:23.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [b3njaxx11: Set own game mode to Creative Mode]
+[19Dec2024 20:13:27.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [b3njaxx11: Teleported b3njaxx11 to b3njaxx11]
+[19Dec2024 20:13:37.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [b3njaxx11: Teleported b3njaxx11 to b3njaxx11]
+[19Dec2024 20:13:44.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [b3njaxx11: Set own game mode to Spectator Mode]
+[19Dec2024 20:13:46.119] [IO-Worker-42/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-47
+[19Dec2024 20:13:46.119] [IO-Worker-45/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-46
+[19Dec2024 20:14:04.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [b3njaxx11: Set own game mode to Survival Mode]
+[19Dec2024 20:14:20.381] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/grove_villager_outpost/town_centers/grove_meeting_point_1
+[19Dec2024 20:14:20.386] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/grove_villager_outpost/grove_table_1
+[19Dec2024 20:14:26.361] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/commands/FillCommand$Mode
+[19Dec2024 20:14:52.454] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_1
+[19Dec2024 20:14:52.461] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:tarrey_town_goddess_statue
+[19Dec2024 20:14:53.651] [Worker-Main-1/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:drownedboss at BlockPos{x=409, y=61, z=-119} at Chest with:minecraft:chests/buried_treasure
+[19Dec2024 20:15:30.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: b3njaxx11 has made the advancement [Ozark Apparition]
+[19Dec2024 20:15:31.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: b3njaxx11 has completed the challenge [Fury of The Frost]
+[19Dec2024 20:16:54.489] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fluids/capability/IFluidHandler$FluidAction
+[19Dec2024 20:17:02.200] [IO-Worker-43/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-48
+[19Dec2024 20:17:02.201] [IO-Worker-42/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-49
+[19Dec2024 20:17:02.204] [IO-Worker-43/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-50
+[19Dec2024 20:17:02.208] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Dec2024 20:17:02.229] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

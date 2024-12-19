@@ -3151,3 +3151,58 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [19Dec2024 19:45:24.574] [Netty Epoll Server IO #3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/bettercombat/logic/AnimatedHand
 [19Dec2024 19:46:06.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: b3njaxx11 has made the advancement [Tiny Proud Soul]
 [19Dec2024 19:46:06.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: b3njaxx11 has made the advancement [Slash Blade]
+[19Dec2024 19:47:49.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: b3njaxx11 has made the advancement [Monster Hunter]
+[19Dec2024 19:47:49.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: b3njaxx11 has made the advancement [Acquire Ash]
+[19Dec2024 19:47:49.669] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Samuel the Pit Master'/1947, l='ServerLevel[world]', x=120.70, y=70.00, z=341.42] died: Samuel the Pit Master was slain by b3njaxx11
+[19Dec2024 19:47:53.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: b3njaxx11 has made the advancement [It Belongs in a Museum]
+[19Dec2024 19:47:58.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: b3njaxx11 has made the advancement [War Pigs]
+[19Dec2024 19:51:07.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: b3njaxx11 was doomed to fall by Piglin Brute
+[19Dec2024 19:51:07.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: b3njaxx11 has completed the challenge [This is Bonfires]
+[19Dec2024 19:53:18.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [b3njaxx11: Set own game mode to Creative Mode]
+[19Dec2024 19:53:21.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: b3njaxx11 has made the advancement [A Terrible Fortress]
+[19Dec2024 19:53:22.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [b3njaxx11: Set own game mode to Survival Mode]
+[19Dec2024 19:53:46.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <b3njaxx11> wa
+[19Dec2024 19:54:34.413] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mezz/jei/common/network/PacketIdClient
+[19Dec2024 19:54:35.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [b3njaxx11: Gave 1 [item.improvableskills.skills_book] to b3njaxx11]
+[19Dec2024 19:55:21.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: b3njaxx11 has made the advancement [Diamonds!]
+[19Dec2024 19:55:52.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: b3njaxx11 was blown up by Nether Pyromancer Revenant
+[19Dec2024 19:56:31.144] [Server thread/INFO] [io.github.apace100.origins.Origins/]: Player b3njaxx11 was randomly assigned the origin origins:feline for layer origins:origin
+[19Dec2024 19:57:57.323] [Server thread/INFO] [io.github.apace100.origins.Origins/]: Player b3njaxx11 was randomly assigned the origin origins:blazeborn for layer origins:origin
+[19Dec2024 19:57:59.977] [Server thread/INFO] [io.github.apace100.origins.Origins/]: Player b3njaxx11 was randomly assigned the origin origins:blazeborn for layer origins:origin
+[19Dec2024 19:58:01.708] [Server thread/INFO] [io.github.apace100.origins.Origins/]: Player b3njaxx11 was randomly assigned the origin origins:elytrian for layer origins:origin
+[19Dec2024 19:58:07.763] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting top/theillusivec4/caelus/api/CaelusApi$TriState
+[19Dec2024 19:58:49.908] [Server thread/INFO] [io.github.apace100.origins.Origins/]: Player b3njaxx11 was randomly assigned the origin origins:shulk for layer origins:origin
+[19Dec2024 19:58:59.957] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boh:herobrine but it was marked as removed already
+[19Dec2024 20:01:30.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: b3njaxx11 fell from a high place
+[19Dec2024 20:01:48.622] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/commands/SharedSuggestionProvider$ElementSuggestionType
+[19Dec2024 20:01:56.477] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/StructureCheckResult
+[19Dec2024 20:01:56.483] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:village_taiga took 13 ms
+[19Dec2024 20:01:59.221] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/enums/EnumBestiaryPages
+[19Dec2024 20:01:59.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [b3njaxx11: Teleported b3njaxx11 to 96.500000, 71.000000, -255.500000]
+[19Dec2024 20:02:00.754] [Worker-Main-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/world/IafWorldData$FeatureType
+[19Dec2024 20:02:00.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [b3njaxx11: Set own game mode to Spectator Mode]
+[19Dec2024 20:02:08.969] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4571ms or 91 ticks behind
+[19Dec2024 20:02:13.355] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: b3njaxx11 moved too quickly! -10.195284077390184,0.0,-1.2674926582384387
+[19Dec2024 20:02:23.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [b3njaxx11: Set own game mode to Survival Mode]
+[19Dec2024 20:02:27.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: b3njaxx11 has made the advancement [Isn't It Iron Pick]
+[19Dec2024 20:02:47.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: b3njaxx11 has made the advancement [Sweet Dreams]
+[19Dec2024 20:02:52.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <b3njaxx11> a
+[19Dec2024 20:03:10.117] [Server thread/INFO] [com.cosmicdan.sleepingoverhaul.SleepingOverhaul/]: Timelapse finished. Average TPS = 148.5907908388044; total time = 16.064252613 seconds; total ticks = 2387
+[19Dec2024 20:03:40.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: b3njaxx11 has made the advancement [Dungeon Now Loading]
+[19Dec2024 20:04:07.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: b3njaxx11 has made the advancement [Disme A Dozen]
+[19Dec2024 20:04:42.857] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/IronGolem$Crackiness
+[19Dec2024 20:05:20.422] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/material/MapColor$Brightness
+[19Dec2024 20:06:46.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: b3njaxx11 has made the advancement [Suit Up]
+[19Dec2024 20:08:02.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: b3njaxx11 has made the advancement [Overtrained?]
+[19Dec2024 20:09:17.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <b3njaxx11> y
+[19Dec2024 20:10:46.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: b3njaxx11 has made the advancement [First Blood]
+[19Dec2024 20:12:44.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: b3njaxx11 has made the advancement [Barrel Booty]
+[19Dec2024 20:13:23.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [b3njaxx11: Set own game mode to Creative Mode]
+[19Dec2024 20:13:27.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [b3njaxx11: Teleported b3njaxx11 to b3njaxx11]
+[19Dec2024 20:13:37.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [b3njaxx11: Teleported b3njaxx11 to b3njaxx11]
+[19Dec2024 20:13:44.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [b3njaxx11: Set own game mode to Spectator Mode]
+[19Dec2024 20:14:04.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [b3njaxx11: Set own game mode to Survival Mode]
+[19Dec2024 20:14:26.361] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/commands/FillCommand$Mode
+[19Dec2024 20:15:30.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: b3njaxx11 has made the advancement [Ozark Apparition]
+[19Dec2024 20:15:31.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: b3njaxx11 has completed the challenge [Fury of The Frost]
+[19Dec2024 20:16:54.489] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fluids/capability/IFluidHandler$FluidAction
